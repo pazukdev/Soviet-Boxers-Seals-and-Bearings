@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#212121">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView39"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/button650ccKMZ"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonM72"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_alignLeft="@+id/buttonM72M"
+                    android:layout_alignStart="@+id/buttonM72M"
+                    android:layout_below="@+id/textView39"
+                    android:layout_marginTop="3dp"
+                    android:text="@string/button_K650"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonM72M"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_below="@+id/buttonM72"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MT9"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonM72N"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_alignLeft="@+id/buttonK750"
+                    android:layout_alignStart="@+id/buttonK750"
+                    android:layout_below="@+id/buttonM72M"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MT10"
+                    android:textSize="12sp" />
+
+
+                <Button
+                    android:id="@+id/buttonK750"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_alignLeft="@+id/buttonK750V"
+                    android:layout_alignStart="@+id/buttonK750V"
+                    android:layout_below="@+id/buttonM72N"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MT10_36"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonK750V"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_below="@+id/buttonK750"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MV650"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonK750M"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_alignLeft="@+id/buttonMV750"
+                    android:layout_alignStart="@+id/buttonMV750"
+                    android:layout_below="@+id/buttonK750V"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MT11"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonMV750"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_alignLeft="@+id/buttonMV750M"
+                    android:layout_alignStart="@+id/buttonMV750M"
+                    android:layout_below="@+id/buttonK750M"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MV650M"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/buttonMV750M"
+                    android:layout_width="140dp"
+                    android:layout_height="42dp"
+                    android:layout_below="@+id/buttonMV750"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/button_MT16"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView44"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonM72"
+                    android:layout_alignBottom="@+id/buttonM72"
+                    android:layout_toLeftOf="@+id/buttonM72"
+                    android:layout_toStartOf="@+id/buttonM72"
+                    android:text="1968-1971"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView45"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonM72M"
+                    android:layout_alignBottom="@+id/buttonM72M"
+                    android:layout_toLeftOf="@+id/buttonM72M"
+                    android:layout_toStartOf="@+id/buttonM72M"
+                    android:text="1971-1976"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView46"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonM72N"
+                    android:layout_alignBottom="@+id/buttonM72N"
+                    android:layout_toLeftOf="@+id/buttonM72N"
+                    android:layout_toStartOf="@+id/buttonM72N"
+                    android:text="1974-1976"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView47"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonK750"
+                    android:layout_alignBottom="@+id/buttonK750"
+                    android:layout_toLeftOf="@+id/buttonK750"
+                    android:layout_toStartOf="@+id/buttonK750"
+                    android:text="1976-1984"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView48"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonK750V"
+                    android:layout_alignBottom="@+id/buttonK750V"
+                    android:layout_toLeftOf="@+id/buttonK750V"
+                    android:layout_toStartOf="@+id/buttonK750V"
+                    android:text="1976-1986"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView49"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonK750M"
+                    android:layout_alignBottom="@+id/buttonK750M"
+                    android:layout_toLeftOf="@+id/buttonK750M"
+                    android:layout_toStartOf="@+id/buttonK750M"
+                    android:text="1985-2008"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView53"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonMV750"
+                    android:layout_alignBottom="@+id/buttonMV750"
+                    android:layout_toLeftOf="@+id/buttonMV750"
+                    android:layout_toStartOf="@+id/buttonMV750"
+                    android:text="1986-198?9?"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView54"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/buttonMV750M"
+                    android:layout_alignBottom="@+id/buttonMV750M"
+                    android:layout_toLeftOf="@+id/buttonMV750M"
+                    android:layout_toStartOf="@+id/buttonMV750M"
+                    android:text="1986-2008"
+                    android:textSize="12sp" />
+
+                <ImageView
+                    android:id="@+id/imageView17"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_above="@+id/buttonM72M"
+                    android:layout_toEndOf="@+id/buttonM72"
+                    android:layout_toRightOf="@+id/buttonM72"
+                    app:srcCompat="@drawable/model_k650_2" />
+
+                <ImageView
+                    android:id="@+id/imageView22"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_above="@+id/buttonM72N"
+                    android:layout_toEndOf="@+id/buttonM72M"
+                    android:layout_toRightOf="@+id/buttonM72M"
+                    app:srcCompat="@drawable/model_mt9_2" />
+
+                <ImageView
+                    android:id="@+id/imageView23"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_above="@+id/buttonK750"
+                    android:layout_toEndOf="@+id/buttonM72N"
+                    android:layout_toRightOf="@+id/buttonM72N"
+                    app:srcCompat="@drawable/model_mt10_2" />
+
+                <ImageView
+                    android:id="@+id/imageView24"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_alignBottom="@+id/buttonK750"
+                    android:layout_toEndOf="@+id/buttonM72N"
+                    android:layout_toRightOf="@+id/buttonM72N"
+                    app:srcCompat="@drawable/model_mt10_36_2" />
+
+                <ImageView
+                    android:id="@+id/imageView25"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_alignBottom="@+id/buttonK750V"
+                    android:layout_toEndOf="@+id/buttonK750"
+                    android:layout_toRightOf="@+id/buttonK750"
+                    app:srcCompat="@drawable/model_mv650m_2" />
+
+                <ImageView
+                    android:id="@+id/imageView26"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_alignBottom="@+id/buttonK750M"
+                    android:layout_toEndOf="@+id/buttonK750V"
+                    android:layout_toRightOf="@+id/buttonK750V"
+                    app:srcCompat="@drawable/model_mt11_2" />
+
+                <ImageView
+                    android:id="@+id/imageView27"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_alignBottom="@+id/buttonMV750"
+                    android:layout_toEndOf="@+id/buttonK750M"
+                    android:layout_toRightOf="@+id/buttonK750M"
+                    app:srcCompat="@drawable/model_mv650m_2" />
+
+                <ImageView
+                    android:id="@+id/imageView28"
+                    android:layout_width="80dp"
+                    android:layout_height="39dp"
+                    android:layout_alignBottom="@+id/buttonMV750M"
+                    android:layout_toEndOf="@+id/buttonMV750"
+                    android:layout_toRightOf="@+id/buttonMV750"
+                    app:srcCompat="@drawable/model_mt16_2" />
+
+                <ImageView
+                    android:id="@+id/imageView29"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:layout_alignTop="@+id/textView39"
+                    android:layout_marginRight="42dp"
+                    android:layout_toLeftOf="@+id/textView39"
+                    android:layout_toStartOf="@+id/textView39"
+                    app:srcCompat="@drawable/logo_kmz" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</RelativeLayout>

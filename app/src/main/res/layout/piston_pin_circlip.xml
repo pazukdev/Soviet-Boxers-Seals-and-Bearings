@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center|start">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:shrinkColumns="*">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView17"
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:textAlignment="center" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:textAlignment="gravity">
+
+                    <TextView
+                        android:id="@+id/textView51"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:text="@string/piston_pin_circlip"
+                        android:textAlignment="center"
+                        android:textColor="?attr/colorPrimary"
+                        android:textSize="12sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView28"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/original_part"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2138"
+                        android:layout_width="10dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+
+                    <TextView
+                        android:id="@+id/textView27"
+                        android:layout_width="120dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="7201239 (7201239-01)"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView28nnn"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/material"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2138oo"
+                        android:layout_width="10dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+
+                    <TextView
+                        android:id="@+id/textView27nn"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="Ст. Р-II"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView28999"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView21389"
+                        android:layout_width="10dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+
+                    <TextView
+                        android:id="@+id/textView2799"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/any_piston_pin_circlip_21mm"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView52hg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="4dp"
+                        android:layout_span="3" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/imageView2rt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="390dp"
+                        android:layout_span="3"
+                        app:srcCompat="@drawable/sp_piston_pin_circlip" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:textAlignment="gravity">
+
+                    <TextView
+                        android:id="@+id/textrrr4View51"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="12sp" />
+                </TableRow>
+
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

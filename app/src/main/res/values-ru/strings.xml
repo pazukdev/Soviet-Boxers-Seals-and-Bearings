@@ -1,0 +1,1237 @@
+<resources>
+    <!-- <string name="app_name">Soviet Boxer Bearings</string> -->
+
+
+
+    <!-- layout_main -->
+
+    <string name="layout_main_text1">
+        Добро пожаловать в приложение
+        \nBoxers Seals and Bearings
+    </string>
+
+    <string name="layout_main_text2">
+        В этом приложении вы сможете найти информацию о применяемости сальников и подшипников
+        на различных моделях старых советских оппозитов: их каталожные номера и обозначения, размеры и
+        информацию по возможным заменителям
+
+    </string>
+
+    <string name="layout_main_text3">
+        Выберите раздел согласно типа и объема двигателя, завода-производителя и периода производства
+        вашего мотоцикла
+    </string>
+
+    <string name="layout_main_text4">
+        Старые Советские оппозиты (1941-1994)
+    </string>
+
+    <string name="layout_main_text5">
+        Поздние Российские 650CC и 720CC оппозиты
+        \n(с 1991г.)
+    </string>
+
+    <string name="layout_main_text6">Современные Российские 750CC оппозиты (с 1998г.)</string>
+    <string name="about_app">О приложении</string>
+    <string name="buttonSV">750CC SV</string>
+    <string name="button650ccIMZ">650CC OHV ИМЗ</string>
+    <string name="button650ccKMZ">650CC OHV КМЗ</string>
+    <string name="button650_720ccOHV">650CC и 720CC OHV</string>
+    <string name="button750ccOHV">750CC OHV</string>
+    <string name="different_things">Разное</string>
+
+
+    <!-- About app -->
+
+    <string name="about_app_text0">
+        1. О приложении
+    </string>
+
+    <string name="about_app_text1">
+        Это приложение представляет из себя что-то вроде таблицы с сальниками и подшипниками
+        применяемыми на старых советских оппозитах и их аналогами, но видоизмененной и
+        реализованной в виде приложения
+    </string>
+
+
+    <string name="about_app_text2">
+        1. Сначала порция пошлости. Но это ВАЖНО
+    </string>
+
+    <string name="about_app_text3">
+        На GooglePlay есть 2 версии приложения: бесплатная и платная. Никаких приемуществ и фишек
+        у платной версии нет. Бесплатная и платная версии одинаковы. Скачивание платной
+        версии - это донат для этого приложения. Если кому-то апа оказалась  полезной и понравилась,
+        и при этом у него есть финансовая возможность и желание поспособствовать развитию
+        приложения, тот может скачать платную версию
+    </string>
+
+    <string name="about_app_text4">
+        2.1 Установленная версия приложения:
+    </string>
+
+    <string name="about_app_text4_0">1.01 free version</string>
+
+    <string name="about_app_text4_1">
+        2.2 Какие есть локализации приложения
+    </string>
+
+    <string name="about_app_text5">
+        Приложение доступно на 2 языках:
+    </string>
+
+    <string name="about_app_what_updates">
+        2.3 Что было исправлено, изменено и добавлено в последнем обновлении
+    </string>
+
+    <string name="about_app_updates">
+        \n       Первый небольшой хот-фикс:
+        \n
+        \n       Исправления:
+        \n   1. Год окончания выпуска модели М-72 исправлен на 1957, модели М-72М исправлен на 1960
+        \n   2. Пофикшен баг с 1 коренным подшипником коленвала всех нижнеклапанных моторов и почти
+        всех (за исключением мотора модели М66) верхнеклапанных моторов ИМЗ3. Пофикшен баг с
+        ошибкой открытия мотора мод. МТ-10-36
+        \n   4. Убрана из описания фишка с воводом картинок во весь экран при повороте телефона
+        в горизонтальное положение. Во-первых, оно все равно не работала почти на всех
+        версиях Android. Во-вторых, вместо этого теперь будут переворачиваться страницы
+        целиком (см. пункт ниже)
+        \n   5. Начата работа по корректировке отображения содержания страниц на гаджетах с
+        различными размерами и разрешением экранов. Отступы текста и картинок от краев экрана
+        по бокам на телефонах и планшетах с большими размерами и разрешением экрана теперь
+        перестанут быть такими огромными, и будут примерно одинаковыми для всех устройств. В данном
+        обновлении под этот новый формат уже изменены все главные страницы моделей мотоциклов и
+        страницы агрегатов (моторов, КПП, редукторов и ходовых)
+        \n
+        \n        Изменения:
+        \n   1. Убрана информация о возможности доната в виде скачивания платной версии приложения.
+        Т.к.платной версии на GooglePlay все равно все еще не существует, и, возможно, так и не появится.
+        \n   2. В разделе "О приложении" появился пункт в котором есть информация об исправлениях и
+        изменениях последнего обновления
+        \n   3. Скорректирован список того, что планируется в будущем добавить в приложение
+    </string>
+
+    <string name="about_app_text5_1">
+        2.4 Об одной особенности интерфейса приложения
+    </string>
+
+    <string name="about_app_text5_2">
+        Если в приложении на экране вы видите картинку, которая слишком мала,
+        чтобы можно было рассмотреть ее в деталях, попробуйте повернуть телефон в горизонтальное
+        положение. Как правило, картинка при этом увеличится до размеров экрана
+    </string>
+
+    <string name="about_app_text5_3">
+        Для того чтобы уменьшить картинку поверните телефон снова в вертикальное приложение
+    </string>
+
+    <string name="about_app_text7">
+        3. Немного о том, из каких ресурсов и источников бралась информация для приложения
+    </string>
+
+    <string name="about_app_text8">
+          Оригинальные руководства по эксплуатации, каталоги запчастей и войсковые руководства по
+        ремонту и обслуживанию М-72, М-72Н, К-750, К-750В, МВ-750, К-750М, М-63, К-650, М-66, МТ-9,
+        МВ-750М, МТ-10, МТ-10-36, М-67-36, МВ-650М, МТ-11, МТ-12, МТ-16 и ИМЗ 8.103.
+        БольшАя часть этого была найдена мной на сайте <b>ghost.in.ua</b>
+        \n  Заводские чертежи М-72. Есть в интернетах в свободном доступе.
+        \n  Форум сайта <b>oppozit.ru</b> Где отдельно хочу отметить топик Crazyhead-а \"Урал/Днепр.
+        Подшипники и их импортные аналоги \" с которого, собственно, апа и начиналась. Также на этом
+        сайте была найдена часть использованной литературы.
+        \nВ наполнении приложения контентом во многом помогли сайты
+        easthighway.com, moto-boxer.com, maxbmwmotorcycles.com
+        \n  Спасибо моему другу и камраду по оппозитам Виктору за то, что благодаря ему у меня
+        появилась часть использованной литературы. И еще за инфу по М-72
+        \n  Спасибо Дмитрию Faust-у за инфу по Днепрам
+    </string>
+
+    <string name="about_app_text9">
+        4. Теперь о том, что планируется сделать в приложении
+    </string>
+
+    <string name="about_app_text10">
+        I. В ближайшее время и стопудово:
+    </string>
+
+    <string name="about_app_text11">
+        - добавление польского языка:
+    </string>
+
+    <string name="about_app_text12">
+        II. В несколько более далекой перспективе и с сомнением:
+    </string>
+
+    <string name="about_app_text13">
+        - добавление французского языка:
+    </string>
+
+    <string name="about_app_text14">
+        - добавление клапанов и направляющих втулок клапанов
+    </string>
+
+    <string name="about_app_text15">
+        III. В далеком туманном будущем:
+    </string>
+
+    <string name="about_app_text16">
+        - добавление украинского языка:
+    </string>
+
+    <string name="about_app_text17">
+        - отрисовка и добавление новых картинок моделей М-61, М-62, М-67, М-67-36
+        \n- добавление моделей ИМЗ-8.103-30 и ИМЗ-8.103-10
+    </string>
+
+    <string name="about_app_text18">
+        IV. Fantasy:
+    </string>
+
+    <string name="about_app_text19">
+        - добавление раздела <b>Российские поздние 650CC и 720CC оппозиты (с 1991г.)</b>
+        \n- добавление раздела <b>Современные Российские 750CC оппозиты (с 1998г.)</b>
+        \n- добавление модели М-52
+        \n
+        \n- добавление электрики:
+        \n-    системы зажигания
+        \n-    катушки зажигания
+        \n-    высоковольтные провода и угольники
+        \n-    тумблеры / переключатели
+        \n-    щетки генераторов
+        \n-    лампочки
+        \n-    АКБ
+        \n
+        \n- добавление более детальной информации по рекомендуемым моторным и трансмиссионным маслам
+        \n- добавление рекомендуемых констистентных смазок
+        \n- добавление покрышек и камер
+        \n- добавление карбюраторов
+        \n- добавление деталей моторов, коробок передач, редукторов и ходовой
+        \n
+        \n- добавление конкретных ссылок на запчасти для их покупки или возможность осуществления
+        покупки запчастей через приложение
+    </string>
+
+    <string name="about_app_text25">
+        Сообщить о баге или ошибке в приложении, задать вопросы, высказать свои пожелания по
+        приложениею или претензии к нему можно на мой
+    </string>
+
+    <string name="about_app_text26">или Facebook</string>
+
+
+
+    <!-- Different things -->
+    <string name="calendar_november_2017">Календарь ноябрь 2017</string>
+    <string name="calendar_november_2017_ukr">Календар листопад 2017</string>
+
+    <!-- Different -->
+    <string name="different_2">2 разных</string>
+    <string name="no">Нет</string>
+    <string name="no_content">Возможно будет доступно позже</string>
+    <string name="note_to_dimencions">Примечание к размерам</string>
+    <string name="some_spare_parts">Некоторые детали</string>
+    <string name="part_name">Деталь</string>
+
+
+
+
+    <!-- Models lists -->
+
+    <!-- SV models list-->
+    <string name="button_M72">M-72</string>
+    <string name="button_M72M">M-72M</string>
+    <string name="button_M72N">M-72H</string>
+    <string name="button_K750">K-750</string>
+    <string name="button_K750B">K-750B</string>
+    <string name="button_K750M">K-750M</string>
+    <string name="button_MV750">MB-750</string>
+    <string name="button_MV750M">MB-750M</string>
+    <string name="button_mt12">Днепр МТ-12</string>
+
+    <!-- 650CC IMZ models list -->
+    <string name="button_M52">M52 (500СС)</string>
+    <string name="button_M61">M61 Ирбит</string>
+    <string name="button_M62">M62 Урал</string>
+    <string name="button_M63">M63 Урал-2</string>
+    <string name="button_M66">M66 Урал-3</string>
+    <string name="button_M67">M67 Урал</string>
+    <string name="button_M67_36">M67-36 Урал</string>
+    <string name="button_IMZ8103_30">ИМЗ-8.103-30</string>
+    <string name="button_IMZ8103_10">ИМЗ-8.103-10</string>
+
+    <!-- 650CC KMZ models list -->
+    <string name="button_K650">K650 Днепр (МТ-8)</string>
+    <string name="button_MT9">Днепр MТ-9</string>
+    <string name="button_MT10">Днепр MТ-10</string>
+    <string name="button_MT10_36">Днепр МТ-10-36</string>
+    <string name="button_MV650">МВ-650</string>
+    <string name="button_MV650M">МВ-650М</string>
+    <string name="button_MT11">Днепр МТ-11</string>
+    <string name="button_MT16">Днепр MT-16</string>
+
+    <!-- 750CC models list -->
+
+    <!-- Motorcycle scheme -->
+    <string name="engine">Двигатель</string>
+    <string name="gearbox">Коробка передач</string>
+    <string name="final_drive">Главная передача</string>
+    <string name="sidecar_reduction_drive">Редуктор коляски</string>
+    <string name="frame_and_wheels">Ходовая</string>
+    <string name="generator">Генератор</string>
+
+
+
+
+
+    <!-- Motorcycles -->
+
+    <string name="motorcycle_models_list">Применяемость по моделям</string>
+    <string name="all_650CC_kmz_models">Все 650СС модели КМЗ</string>
+    <string name="all_650CC_imz_models">Все 650СС модели ИМЗ</string>
+    <string name="all_sv_models">Все нижнеклапанные модели</string>
+    <string name="all_soviet_boxers">Все советские оппозиты</string>
+    <string name="all_soviet_boxers_excluding_very_early_m72">
+        Все советские оппозиты, за исключением очень ранних М-72
+    </string>
+
+
+
+
+    <!-- SV models -->
+
+    <!-- M-72 -->
+    <string name="type_m72">обр. М-72</string>
+    <string name="late_m72">(поздний, 194?-1957)</string>
+    <string name="button_engine_m72">мод. М-72</string>
+    <string name="button_frame_m72">обр. М-72</string>
+    <string name="hp_engine_m72">22 л.с.</string>
+    <string name="seal_engine_crankshaft_felt_dimencions">50x65x5,5</string>
+
+    <!-- M-72M -->
+    <string name="type_m72m">обр. М-72М</string>
+
+
+    <!-- M-72N -->
+    <string name="type_m72n">обр. М-72Н</string>
+
+
+    <!-- K-750 -->
+    <string name="type_k750">обр. К-750</string>
+    <string name="button_engine_k750">мод. К-750</string>
+    <string name="hp_engine_k750">26 л.с.</string>
+    <string name="steering_head_seal">Сальник рулевой колонки</string>
+    <string name="upper">верхний</string>
+    <string name="lower">нижний</string>
+    <string name="felt_seal_6mm">Войлочный сальник толщ. 6мм</string>
+    <string name="rubber_seal">Резиновое уплотнительное кольцо</string>
+    <string name="rear_bearing_housing_mashining">
+        Задняя крышка двигателя нуждается в доработке
+    </string>
+
+
+    <!-- K-750M -->
+    <string name="type_k750m">обр. К-750М</string>
+    <string name="button_engine_k750m">мод. К-750М</string>
+
+
+
+    <!-- MV-750 -->
+    <string name="type_2wd_mv750">обр. 2wd МВ-750</string>
+    <string name="differential_with">- дифферециальная</string>
+    <string name="differential_lock_with">-с блокировкой дифференциала</string>
+    <string name="type_mv750">обр. МВ-750</string>
+
+    <!-- MV-750M -->
+    <string name="type_2wd_mv750m">обр. 2wd МВ-750М</string>
+    <string name="differential_lock_without">-без блокировки дифференциала</string>
+    <string name="type_mv750m">обр. МВ-750М</string>
+
+
+    
+    
+    
+    
+    <!-- 650CC IMZ models -->
+    <string name="type_imz">обр. ИМЗ</string>
+    <string name="type_old_imz">обр. М61-М67</string>
+
+    <!-- M61 -->
+    <string name="button_engine_m61">мод. М61</string>
+    <string name="hp_engine_m61">26 л.с.</string>
+
+    <!-- M62 -->
+    <string name="type_m62">обр. М62</string>
+    <string name="button_engine_m62">мод. M62</string>
+    <string name="hp_engine_m62">28 л.с.</string>
+    <string name="button_gearbox_6204_m62">6204 \nобр. М62</string>
+    <string name="gearbox_6204_m62">6204 обр. М62</string>
+    <string name="g65_instead_of_g414">* Ранние М62 оснащались генератором Г-65:</string>
+    <string name="button_g65">Г-65</string>
+    <string name="m62_6204_gearbox_feature">
+        Коробка 6204 М62 была переходной между 7204 и "классической" 6204:
+        "внутренности" 6204 (а точнее мелкошлицевые муфты переключения передач) + картер 7204.
+    </string>
+    <string name="final_drive_m62_feature">
+        Редуктор обр. М62 отличается от редуктора обр. М72 тем, что вместо вкладышей (7205238 и
+        7205239) установлены 45 иголок 3х15,8мм.
+    </string>
+
+    <!-- M63 -->
+    <string name="type_m63">обр. М63</string>
+
+    <!-- M66 -->
+    <string name="type_m66">обр. М66</string>
+    <string name="button_engine_m66">мод. M66</string>
+    <string name="hp_engine_m66">32 л.с.</string>
+    <string name="modification_1">Исполнение 1</string>
+    <string name="modification_2">Исполнение 2</string>
+    <string name="export_modification">(экспортное *)</string>
+    <string name="according_with_m66_spare_parts_catalogue">
+        * Согласно Motorcycle Model M-66 Spare Parts Catalogue, AVTOEXPORT, USSR, Moscow
+    </string>
+
+    <!-- M67 -->
+    <string name="type_m67">обр. М67</string>
+    <string name="button_engine_m67">мод. М67</string>
+
+    <!-- M67-36 -->
+    <string name="type_m67_36">обр. М67-36</string>
+    <string name="button_engine_m67_36">мод. М67-36</string>
+    <string name="hp_engine_m67_36">36 л.с.</string>
+
+
+
+
+    <!-- 650CC KMZ models -->
+    <!-- K-650 -->
+    <string name="type_k650">обр. К-650</string>
+    <string name="engine_k650">Мотор мод. K-650 32л.с.</string>
+    <string name="button_engine_k650">мод. К-650</string>
+
+    <!-- MT9 -->
+    <string name="type_mt9">обр. МТ9</string>
+    <string name="engine_mt9">Мотор мод. МТ9 32л.с.</string>
+    <string name="button_engine_mt9">мод. МТ9</string>
+
+
+    <!-- MT10 -->
+    <string name="engine_mt10">Мотор мод. МТ10 32л.с.</string>
+    <string name="button_engine_mt10">мод. МТ10</string>
+
+    <!-- MT10-36 -->
+    <string name="engine_mt10_36">Мотор мод. МТ10-36 36л.с.</string>
+    <string name="button_engine_mt10_36">мод. МТ10-36</string>
+    <string name="type_mt10_36">обр. МТ10-36</string>
+
+    <!-- MV650 -->
+    <string name="type_mv650">обр. МВ650</string>
+
+    <!-- MT11 -->
+    <string name="engine_mt11">Мотор мод. МТ10-32 32л.с.</string>
+    <string name="button_engine_mt11">мод. МТ10-32</string>
+    <string name="type_mt11">обр. MT-11</string>
+
+    <!-- MT16 -->
+
+
+
+
+
+    <!-- Motorcycle units -->
+    <!-- Gearbox -->
+
+    <string name="button_gearbox_7204">мод. 7204</string>
+    <string name="button_gearbox_6204">мод. 6204</string>
+    <string name="button2_gearbox_6204">Коробка \nмод. 6204</string>
+    <string name="button_gearbox_mt80400">мод. МТ804</string>
+    <string name="button_gearbox_kmz8155">мод. КМЗ-8.155</string>
+    <string name="button_gearbox_810104001">мод. 8.101-04001</string>
+
+    <string name="clutch_shaft">Первичный вал</string>
+    <string name="main_shaft">Вторичный вал</string>
+    <string name="kickstarter_shaft">Вал кикстартера</string>
+    <string name="left_cover">Левая крышка</string>
+    <string name="right_cover">Правая крышка</string>
+    <string name="right_left_covers">Правая и левая крышки</string>
+    <string name="gearshift_lever">Рычаг переключения передач</string>
+    <string name="clutch_release_mechanism">Механизм выжима сцепления</string>
+    <string name="seal_felt_4mm">Войлочное кольцо</string>
+    <string name="seal_gearshift_foot_lever">Сальник ножного рычага переключения передач</string>
+    <string name="seal_gearshift_lever">Сальник рычага переключения передач</string>
+
+
+    <!-- Engine -->
+
+    <string name="piston_pin">Поршневой палец</string>
+    <string name="timing_cover">Крышка ГРМ</string>
+    <string name="crankshaft">Коленвал</string>
+    <string name="crankshaft_rear">Коленвал, задняя опора</string>
+    <string name="crankshaft_front">Коленвал, передняя опора</string>
+    <string name="camshaft">Распредвал</string>
+    <string name="camshaft_front_journal">Распредвал, передняя опора</string>
+    <string name="camshaft_rear_journal">Распредвал, задняя опора</string>
+    <string name="connecting_rod_big_end">Шатун, нижняя головка</string>
+    <string name="connecting_rod_small_end">Шатун, верхняя головка</string>
+    <string name="no_oil_filter">Фильтр не предусмотрен</string>
+    <string name="conrod_big_end_half_bearing">Вкладыш нижней головки шатуна</string>
+    <string name="flywheel_fastening_bolt">Болт крепления маховика</string>
+    <string name="valve_guide">Направляющая втулка клапана</string>
+    
+    <!-- Pistons & piston rings -->
+    
+    <string name="basic_diameter">Номинальный диаметр, мм</string>
+    <string name="basic_width_compression_top">
+        Номинальная высота верхнего компрессионного кольца, мм
+    </string>
+    <string name="basic_width_compression_second">
+        Номинальная высота нижнего компрессионного кольца, мм
+    </string>
+    <string name="basic_width_compression">Номинальная высота компрессионных колец, мм</string>
+    <string name="basic_width_oil_control">Номинальная высота маслосъемных колец, мм</string>
+
+    <string name="piston">Поршень</string>
+    <string name="quantity_per_engine">Количество в двигателе, шт.</string>
+    <string name="piston_diameter">Диаметр поршня, мм</string>
+    <string name="piston_assembly">Поршень (комплект с кольцами и пальцем)</string>
+    <string name="piston_kit_oversize_1">
+        Поршень, комплект 1-ого ремонтного размера (+0,2мм)
+    </string>
+    <string name="piston_kit_oversize_2">
+        Поршень, комплект 2-ого ремонтного размера (+0,5мм)
+    </string>
+    <string name="piston_kit_oversize_3">
+        Поршень, комплект 3-ого ремонтного размера (+1,0мм)
+    </string>
+    <string name="piston_kit_oversize_4">
+        Поршень, комплект 4-ого ремонтного размера
+    </string>
+
+    <string name="piston_assembly_oversize_1">
+        Поршень, комплект 1-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_2">
+        Поршень, комплект 2-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_3">
+        Поршень, комплект 3-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_4">
+        Поршень, комплект 4-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_5">
+        Поршень, комплект 5-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_6">
+        Поршень, комплект 6-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_7">
+        Поршень, комплект 7-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_assembly_oversize_8">
+        Поршень, комплект 8-ого ремонтного размера, парт номер (размер)
+    </string>
+
+    <string name="piston_oversize_1">Поршень 1-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_2">Поршень 2-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_3">Поршень 3-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_4">Поршень 4-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_5">Поршень 5-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_6">Поршень 6-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_7">Поршень 7-ого ремонтного размера, парт номер (размер)</string>
+    <string name="piston_oversize_8">Поршень 8-ого ремонтного размера, парт номер (размер)</string>
+
+
+    <string name="piston_oversize_1_sov">Поршень 1-ого ремонтного размера (+0,2мм)</string>
+    <string name="piston_oversize_2_sov">Поршень 2-ого ремонтного размера (+0,5мм)</string>
+    <string name="piston_oversize_3_sov">Поршень 3-ого ремонтного размера (+1,0мм)</string>
+    <string name="piston_ring_compression_oversize_1">
+        Компрессионное поршневое кольцо 1-ого ремонтного размера (+ 0,2мм)
+    </string>
+    <string name="piston_ring_compression_oversize_2">
+        Компрессионное поршневое кольцо 2-ого ремонтного размера (+ 0,5мм)
+    </string>
+    <string name="piston_ring_compression_oversize_3">
+        Компрессионное поршневое кольцо 3-ого ремонтного размера (+ 1,0мм)
+    </string>
+    <string name="piston_ring_oil_control_oversize_1">
+        Маслорегулирующее поршневое кольцо 1-ого ремонтного размера (+ 0,2мм)
+    </string>
+    <string name="piston_ring_oil_control_oversize_2">
+        Маслорегулирующее поршневое кольцо 2-ого ремонтного размера (+ 0,5мм)
+    </string>
+    <string name="piston_ring_oil_control_oversize_3">
+        Маслорегулирующее поршневое кольцо 3-ого ремонтного размера (+ 1,0мм)
+    </string>
+
+    <string name="piston_rings">Поршневые кольца</string>
+    <string name="piston_rings_kit">Комплект поршневых колец</string>
+    <string name="piston_rings_kit_part_n_quantity">
+        Комплект поршневых колец, парт номер (количество, шт.)
+    </string>
+
+    <string name="compression_ring_chrome_plated">
+        Верхнее поршневое компрессионное кольцо, хромированное
+    </string>
+    <string name="compression_ring_chrome_plated_quantity_2">
+        Верхнее поршневое компрессионное кольцо, хромированное (количество, шт.)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_1">
+        Верхнее поршневое компрессионное кольцо, хромированное 1-го ремонтного размера (+0,2мм)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_2">
+        Верхнее поршневое компрессионное кольцо, хромированное 2-го ремонтного размера (+0,5мм)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_3">
+        Верхнее поршневое компрессионное кольцо, хромированное 3-го ремонтного размера (+1,0мм)
+    </string>
+
+    <string name="compression_ring">Компрессионне поршневое кольцо</string>
+    <string name="compression_ring_quantity_2">
+        Компрессионне поршневое кольцо (количество, шт.)
+    </string>
+
+    <string name="oversizes">Ремонтные размеры</string>
+
+    <string name="compression_ring_quantity">Количество компрессионных колец, шт.</string>
+    <string name="oil_control_ring">Маслорегулирующее поршневое кольцо</string>
+    <string name="oil_control_ring_quantity">Количество маслосъемных колец, шт.</string>
+    <string name="oil_control_ring_quantity_2">
+        Маслорегулирующее поршневое кольцо (количество, шт.)
+    </string>
+    <string name="oil_rings_type">Тип маслосъемных колец</string>
+    <string name="oil_ring_type">Тип маслосъемного кольца</string>
+    <string name="one_piece_plain_oil_control">
+        Цельные, коробчатого типа (маслорегулирующие)
+    </string>
+    <string name="two_piece_plain_oil_control">
+        Двухсоставное, коробчатого типа, с пружиной (маслорегулирующее)
+    </string>
+    <string name="segmented">Наборное</string>
+
+    <string name="piston_rings_kit_oversize_1">
+        Комплект поршневых колец 1-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_2">
+        Комплект поршневых колец 2-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_3">
+        Комплект поршневых колец 3-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_4">
+        Комплект поршневых колец 4-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_5">
+        Комплект поршневых колец 5-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_6">
+        Комплект поршневых колец 6-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_7">
+        Комплект поршневых колец 7-ого ремонтного размера, парт номер (размер)
+    </string>
+    <string name="piston_rings_kit_oversize_8">
+        Комплект поршневых колец 8-ого ремонтного размера, парт номер (размер)
+    </string>
+
+
+
+    <string name="piston_rings_hastings_for_models">
+        Ford Courier 1600cc, 1800cc 72-78
+        \nMazda 1600cc, 1800cc 71-94
+        \nMercury Tracer, Capri 98, 1.6L 88-94
+        \nNissan 1598cc 83
+        \nKia 1597cc 1.6L 94-97
+    </string>
+
+
+    
+    <string name="manufacturing_method">Метод производства</string>
+    <string name="investment_casting">Литье</string>
+    <string name="die_casting">Литье под давлением</string>
+    <string name="isothermal_stamping">Изотермическая штамповка</string>
+
+
+
+
+
+
+
+
+    <string name="piston_pin_circlip">Стопорное кольцо поршневого пальца</string>
+    <string name="any_piston_pin_circlip_21mm">
+        Любое стопорное кольцо поршневого пальца &#216;21mm
+    </string>
+
+
+    <string name="valve">Клапан</string>
+    <string name="intake_valve">Впускной клапан</string>
+    <string name="exhaust_valve">Выпускной клапан</string>
+
+
+
+
+
+
+    
+    <!-- Clutch -->
+    <string name="thrust_plate_screw">Винт ведущего упорного диска сцепления</string>
+    <string name="thrust_plate">ведущего упорного диска сцепления</string>
+    <string name="clutch_pins_needed">
+        * При использовании данных заменителей в обоих случаях:
+        \n-пальцы сцепления (парт номер 7201225) должны быть заменены на
+        нестандартные с шагом резьбы 1,25мм;
+        \n-отверстия под винты ведущего упорного диска сцепления (парт номер 7203122)
+        нуждаются в зенковке.
+    </string>
+    <string name="clutch_pins_needed_2">
+        * При использовании данных заменителей:
+        \n-пальцы сцепления (парт номер 7201225) должны быть заменены на
+        нестандартные с шагом резьбы 1,25мм;
+        \n-отверстия под винты ведущего упорного диска сцепления (парт номер 7203122)
+        нуждаются в зенковке.
+    </string>
+    <string name="screw_class_109_or_129">10,9 или 12,9</string>
+
+
+
+    <!-- Frame -->
+    <string name="steering_head">Рулевая колонка</string>
+    <string name="wheel_hub">Ступица колеса (4)</string>
+
+    <!-- Generators -->
+    <string name="g11a">Г-11А</string>
+    <string name="g414">Г-414</string>
+    <string name="g424">Г-424</string>
+
+    <string name="seal_generator_shaft_g414">Сальник вала генератора Г-414</string>
+    <string name="seal_generator_shaft_g424">Сальник вала генератора Г-424</string>
+
+    <string name="rotor_shaft">Вал ротора</string>
+    <string name="direct_current_type">Постоянного тока</string>
+    <string name="alternator">Переменного тока</string>
+    <string name="nominal_tension">Номинальное напряжение, В</string>
+    <string name="nominal_power">Номинальная мощность, Вт</string>
+    <string name="nominal_amperage">Номинальный ток, А</string>
+    <string name="pole_shoe_screw">Винт полюсного башмака</string>
+    <string name="screw">Винт</string>
+    <string name="screw_class">Класс прочности</string>
+    <string name="screw_class_48">4.8 или выше</string>
+    <string name="soviet_standart">ГОСТ</string>
+    <string name="more_modern_soviet_standart">Более новый ГОСТ</string>
+
+
+
+    <!-- Final drive -->
+    <string name="type_2wd_ussr_kmz">обр. 2wd СССР КМЗ</string>
+    <string name="type_ussr_kmz">обр. СССР КМЗ</string>
+
+    <string name="final_drive_hub">Ступица редуктора</string>
+    <string name="final_drive_drive_pinion_shaft">Ведущая шестерня</string>
+    <string name="final_drive_casing">Картер редуктора</string>
+    <string name="universal_joint_driven_fork">Карданный шарнир, ведомая вилка</string>
+    <string name="universal_joint_of_sidecar_drive_shaft">
+        Карданный шарнир привода колеса коляски
+    </string>
+    <string name="differential_cover">Крышка дифференциала</string>
+    <string name="left_hand_differential_hub">Левая ступица дифференциала</string>
+    <string name="differencial_cup">Чашка дифференциала</string>
+
+    <string name="about_next_final_drive_casing_seals_1">
+        Все последующие сальники конструктивно отличаются от оригинального,
+        т.е. не являются воротниковыми. А представляют из себя сальники классической на сегодняшний
+        день конструкции.
+        \nПроточка в корпусе редуктора, в которую можно поставить сальник данного вида, может
+        быть разной по диаметру: от 58мм до 60мм. Чем и необходимо руководствоваться при выборе
+        заменителя, выбирая между сальниками с внешним диаметром 58, 59 или 60мм.
+    </string>
+
+    <string name="about_next_final_drive_casing_seals_2">
+        Далее перечислены сальники имеющие насечку, ориентированную под противоположное направление
+        вращения.
+        \nИх установка допустима, т.к. скорость вращения колеса во всех режимах езды существенно
+        ниже 2500об/мин. Однако устанавливать такой сальник все равно стоит только в случае,
+        если нет возможности поставить сальник с под правильное вращения.
+    </string>
+    <string name="right_direction_seals">Сальники правого вращения</string>
+
+    <!-- Sidecar reguction drive-->
+    <string name="sidecar_reduction_drive_left_hand_cover">Левая крышка редуктора коляски</string>
+    <string name="sidecar_reduction_drive_right_hand_cover">Правая крышка редуктора коляски</string>
+    <string name="sidecar_reduction_drive_casing">Картер редуктора коляски</string>
+
+    <string name="seal_choose_according_with_outside_diameter">
+        *Сальник следует выбирать по внешнему диаметру в соответствии
+        с диаметром проточки в картере редуктора.
+    </string>
+
+    <!-- Universal joint -->
+    <string name="universal_joint_cross">Крестовина карданного шарнира</string>
+    <string name="universal_joint_cross_assembly">Крестовина карданного шарнира в сборе</string>
+    <string name="universal_joint_cross_bearing">Подшипник крестовины карданного шарнира</string>
+
+
+
+
+    <!-- Motorcycle units specifications -->
+    <string name="location">Место установки</string>
+    <string name="quantity">Кол-во, шт.</string>
+    <string name="original_part">Номер оригинала</string>
+    <string name="part_number">Парт номер</string>
+    <string name="type">Тип</string>
+    <string name="dimencions">Размеры, мм</string>
+
+    <string name="modern_replacement">Заменитель</string>
+    <string name="modern_replacement_1">Заменитель 1</string>
+    <string name="modern_replacement_2">Заменитель 2</string>
+    <string name="modern_replacement_3">Заменитель 3</string>
+    <string name="modern_replacement_4">Заменитель 4</string>
+
+    <string name="modern_replacement_5">Заменитель 5</string>
+    <string name="modern_replacement_6">Заменитель 6</string>
+    <string name="modern_replacement_7">Заменитель 7</string>
+    <string name="modern_replacement_8">Заменитель 8</string>
+    <string name="modern_replacement_9">Заменитель 9</string>
+    <string name="modern_replacement_10">Заменитель 10</string>
+    <string name="modern_replacement_11">Заменитель 11</string>
+    <string name="modern_replacement_12">Заменитель 12</string>
+    <string name="modern_replacement_13">Заменитель 13</string>
+    <string name="modern_replacement_14">Заменитель 14</string>
+    <string name="modern_replacement_15">Заменитель 15</string>
+    <string name="modern_replacement_16">Заменитель 16</string>
+    <string name="modern_replacement_17">Заменитель 17</string>
+    <string name="modern_replacement_18">Заменитель 18</string>
+    <string name="modern_replacement_19">Заменитель 19</string>
+    <string name="modern_replacement_20">Заменитель 20</string>
+
+
+
+
+
+    <string name="modern_replacement_type">Тип заменителя</string>
+    <string name="modern_replacement1_type">Тип заменителя 1</string>
+    <string name="modern_replacement2_type">Тип заменителя 2</string>
+    <string name="dimencions_of_original">Размеры оригинала, мм</string>
+    <string name="thickness_of_original">Размеры оригинала (толщина), мм</string>
+    <string name="seal_4mm">Войлочный сальник толщ. 4мм</string>
+    <string name="seal_4halfmm_7204116">Войлочный сальник толщ. 4,5мм №7204116</string>
+    <string name="seal_4halfmm_7204142">Войлочный сальник толщ. 4,5мм №7204142</string>
+    <string name="seal_4halfmm">Войлочный сальник толщ. 4,5мм</string>
+
+    <string name="dimencions_of_replacement">Размеры заменителя, мм</string>
+    <string name="dimencions_of_replacement_1">Размеры заменителя 1, мм</string>
+    <string name="dimencions_of_replacement_2">Размеры заменителя 2, мм</string>
+    <string name="dimencions_of_replacement_3">Размеры заменителя 3, мм</string>
+    <string name="dimencions_of_replacement_4">Размеры заменителя 4, мм</string>
+
+    <string name="dimencions_of_replacement_5">Размеры заменителя 5, мм</string>
+    <string name="dimencions_of_replacement_6">Размеры заменителя 6, мм</string>
+    <string name="dimencions_of_replacement_7">Размеры заменителя 7, мм</string>
+    <string name="dimencions_of_replacement_8">Размеры заменителя 8, мм</string>
+    <string name="dimencions_of_replacement_9">Размеры заменителя 9, мм</string>
+    <string name="dimencions_of_replacement_10">Размеры заменителя 10, мм</string>
+    <string name="dimencions_of_replacement_11">Размеры заменителя 11, мм</string>
+    <string name="dimencions_of_replacement_12">Размеры заменителя 12, мм</string>
+    <string name="dimencions_of_replacement_13">Размеры заменителя 13, мм</string>
+    <string name="dimencions_of_replacement_14">Размеры заменителя 14, мм</string>
+    <string name="dimencions_of_replacement_15">Размеры заменителя 15, мм</string>
+    <string name="dimencions_of_replacement_16">Размеры заменителя 16, мм</string>
+    <string name="dimencions_of_replacement_17">Размеры заменителя 17, мм</string>
+    <string name="dimencions_of_replacement_18">Размеры заменителя 18, мм</string>
+    <string name="dimencions_of_replacement_19">Размеры заменителя 19, мм</string>
+    <string name="dimencions_of_replacement_20">Размеры заменителя 20, мм</string>
+
+
+
+
+    <string name="rollers_quantity">Количество роликов, шт.</string>
+    <string name="rollers_dimencions">Размеры роликов, мм</string>
+    <string name="rollers_material">Материал роликов</string>
+    <string name="cage_material">Материал сепаратора</string>
+    <string name="direction_of_rotation_of_replacement">Направление вращ. заменителя</string>
+    <string name="direction_of_rotation">Требуемое направление</string>
+    <string name="rotation_left">Левое</string>
+    <string name="rotation_right">Правое</string>
+    <string name="rotation_left_direction">Левое направление вращения</string>
+    <string name="rotation_right_direction">Правое направление вращения</string>
+    <string name="rotation_both_directions">В обе стороны</string>
+    <string name="features_of_construction">Особенности исполнения</string>
+    <string name="feauture_of_replacement">Особенности заменителя</string>
+
+    <string name="feauture_of_replacement_1">Особенности заменителя 1</string>
+    <string name="feauture_of_replacement_2">Особенности заменителя 2</string>
+    <string name="feauture_of_replacement_3">Особенности заменителя 3</string>
+    <string name="feauture_of_replacement_4">Особенности заменителя 4</string>
+    <string name="feauture_of_replacement_5">Особенности заменителя 5</string>
+    <string name="feauture_of_replacement_6">Особенности заменителя 6</string>
+    <string name="feauture_of_replacement_7">Особенности заменителя 7</string>
+    <string name="feauture_of_replacement_8">Особенности заменителя 8</string>
+    <string name="feauture_of_replacement_9">Особенности заменителя 9</string>
+
+    <string name="low_quality">Ожидается плохое качество</string>
+    <string name="quality_unknown">Качество под вопросом</string>
+    <string name="low_resourse">Ожидается низкий ресурс</string>
+    <string name="strengthened">У - усиленная</string>
+    <string name="circlip">Стопорное кольцо</string>
+    <string name="lock_ring">Кольцо кардана замковое</string>
+    <string name="retaining_ring_for_bores">Стопорное кольцо для отверстий</string>
+    <string name="snap_ring">Фиксирующее кольцо</string>
+    <string name="spring_steel">Пружинная сталь, нержавеющая сталь A2</string>
+    <string name="assembly">в сборе</string>
+    <string name="gost_name">Наименование по ГОСТу</string>
+    <string name="lock_ring_gost">
+        Кольца пружинные упорные плоские внутренние эксцентрические
+    </string>
+    <string name="external_retaining_rings_with_lugs">Стопорное кольцо наружное</string>
+    <string name="retaining_spring_flat_concentric_ring">
+        Кольцо пружинное упорное плоское наружное концентрическое
+    </string>
+    <string name="flat">Плоское</string>
+    <string name="lock_ring_gost_round">Кольца пружинные круглые</string>
+    <string name="cardan_shaft_lock_ring">Стопорное кольцо карданного вала</string>
+
+    <string name="cardan_shaft_circlip_part_numbers">
+        75005305 - КМЗ
+        \n
+        \n6305310 - ИМЗ до М67-36
+        \n
+        \nИМЗ-8.101-05310 - ИМЗ с М67-36
+    </string>
+    <string name="b2a">Б-2А, др.</string>
+
+    <string name="feature_of_cardan_shaft_ring_1">
+        Необходимо углубить паз(ы) на карданном валу до диаметра 16.8мм
+    </string>
+    <string name="feature_of_cardan_shaft_ring_2">
+        Необходимо углубить паз(ы) на карданном валу до диаметра 15.2мм
+    </string>
+    <string name="feature_of_cardan_shaft_ring_3">
+        Необходимо расточить паз(ы) вилки (вилок) карданного вала до диаметра 23.4мм
+    </string>
+    <string name="feauture1">Особенность 1</string>
+    <string name="feauture2">Особенность 2</string>
+
+
+
+    <string name="collar_type">Воротникового типа</string>
+    <string name="not_collar_type">Не воротниковый</string>
+    <string name="material">Материал</string>
+    <string name="material_2">Материал 2</string>
+    <string name="original_part_plus_material">Номер оригинала (материал)</string>
+    <string name="part_for">Запчасть для (марка, модель, (годы выпуска))</string>
+    <string name="part_for_company_model">Запчасть для (марка, модель)</string>
+
+    <string name="manufacturer_or_tm">Производитель или торговая марка</string>
+
+    <string name="any_additional_part_info">Дополнительная информация о запчасти</string>
+
+
+    <!-- Standart parts specifications -->
+    <string name="bearings">Подшипники</string>
+    <string name="seals">Сальники</string>
+    <string name="oil_filter">Масляный фильтр</string>
+
+
+    <!-- Filters -->
+    <string name="adapter">Переходник</string>
+    <string name="feauture">Особенность</string>
+    <string name="adapter_needed">Необходим переходник</string>
+    <string name="fits">Для</string>
+    <string name="adapter_for_hf166_type">Переходник для HF161</string>
+    <string name="adapter_for_mann_w75_type">Переходник для MANN W75/3</string>
+    <string name="oil_filter_m66">Масляный фильтр M66</string>
+    <string name="oil_filter_m67_36">Масляный фильтр ИМЗ-8.101-01090</string>
+
+    <string name="hf161_models_list">
+        BMW R45(N), R50/5, R60(all models), R65(LS), R75(all models), R80(GS, R, RT, ST),
+        R90(all models), R100(GS, R, RT, CS(without air cooler), S(without air cooler)
+        (from 1969-1996)
+    </string>
+
+    <string name="w75_adapter_taken_from">
+        Drawing from BogomazDen article from oppozit.ru
+    </string>
+    <string name="hf161_adapter_later">
+        Деталеровка переходника с размерами будет добавлена в приложение позже
+    </string>
+
+    <!-- Oils -->
+    <string name="recommended_oils">Рекомендованные масла</string>
+    <string name="viscosity">Вязкость SAE</string>
+    <string name="type_by_base">Тип основы</string>
+    <string name="mineral">Минеральное</string>
+    <string name="semisynthetic">Полусинтетика</string>
+    <string name="synthetic">Синтетика</string>
+    <string name="type_by_use">Тип по назначению</string>
+    <string name="motor_oil">Моторное</string>
+    <string name="gear_oil">Трансмиссионное</string>
+    <string name="seasonality">Сезонность</string>
+    <string name="summer_use">Летнее</string>
+    <string name="winter_use">Зимнее</string>
+    <string name="multigrade">Всесезонное</string>
+
+
+    <!-- Bearings -->
+    <string name="bearing">Подшипник</string>
+    <string name="roller">Ролик</string>
+    <string name="cage">Сепаратор</string>
+    <string name="number">Номер</string>
+
+    <string name="bearing_load_rating">Load rating</string>
+
+    <string name="bearing_conrod_big_end_m72">подшипника 822907 нижней головки шатуна</string>
+    <string name="bearing_conrod_big_end_m66">подшипника 864708 ДМ нижней головки шатуна</string>
+
+    <string name="cylindrical_roller">Ролик цилиндрический</string>
+    <string name="quantity_in_1_bearing">Количество в подшипнике, шт.</string>
+
+    <string name="bearing_type_ball_radial">
+        - шариковый \n- однорядный \n- радиальный \n- открытый
+    </string>
+    <string name="bearing_type_ball_radial_covered">
+        - шариковый \n- однорядный \n- радиальный \n- закрытый
+    </string>
+    <string name="bearing_type_ball_thrust_radial">
+        - шариковый \n- однорядный \n- упорно-радиальный \n- открытый
+    </string>
+    <string name="bearing_type_roller_thrust_radial">
+        - роликовый \n- однорядный \n- упорно-радиальный \n- конический \n- открытый
+    </string>
+    <string name="bearing_type_roller_radial_thrust">
+        - роликовый \n- однорядный \n- радиально-упорный \n- конический \n- открытый
+    </string>
+    <string name="bearing_type_roller_radial_singlerow">
+        - роликовый \n- радиальный \n- однорядный \n- с цилиндрическими роликами
+    </string>
+    <string name="bearing_type_ball_2row_radial_thrust">
+        - шариковый \n- двухрядный \n- радиально-упорный \n- открытый
+    </string>
+    <string name="bearing_type_roller_without_cage">
+        - роликовый \n- без сепаратора
+    </string>
+    <string name="bearing_type_needle">
+        - игольчатый
+    </string>
+    <string name="bearing_type_needle_radial_without_cage_one_race">
+        - игольчатый \n- радиальный \n- без сепаратора \n- с одним кольцом с профилированным дном
+    </string>
+    <string name="bearing_type_ball_thrust_without_races">
+        - шариковый \n- упорный \n- без колец
+    </string>
+    <string name="bearing_type_roller_thrust">
+        - роликовый \n- упорный
+    </string>
+    <string name="bearing_type_roller_radial_with_cage_without_races">
+        - роликовый \n- радиальный \n- сепараторный \n- без колец
+    </string>
+    <string name="bearing_type_roller_radial_with_cage">
+        - роликовый \n- радиальный \n- сепараторный
+    </string>
+    <string name="bearing_type_plain">Подшипник скольжения</string>
+    <string name="bearing_type_half_bearing">Вкладыш</string>
+    <string name="reinforsed">Усиленный</string>
+
+
+
+    <!-- Needle -->
+    <string name="needle_roller_3x16mm">Иголка 3х15,8мм</string>
+    <string name="needle_lever">Иголка 2,5х10мм</string>
+    <string name="k750_front_fork_levers">Рычаги передней вилки</string>
+
+
+    <!-- Roller DV 6,5x6,5mm VR -->
+    <string name="roller_6half_x_6half_mm">Ролик ДV 6,5х6,5 ВР</string>
+    <string name="button_roller_6half_x_6half_mm">Ролик \nДV 6,5х6,5 ВР</string>
+
+    <!-- 7204 bearing -->
+    <string name="bearing_7204">Подшипник 7204</string>
+
+    <!-- 6v generators bearings -->
+    <string name="bearing_608">Подшипник 18</string>
+    <string name="bearing_200">Подшипник 200</string>
+    <string name="bearing_201">Подшипник 201</string>
+
+    <!-- 204 bearing -->
+    <string name="bearing_204">Подшипник 204</string>
+
+    <!-- 303 bearing -->
+    <string name="bearing_303">Подшипник 303</string>
+
+    <!-- 180503 bearing -->
+    <string name="bearing_180503">Подшипник 180503</string>
+    <string name="make_compensating_bushings">
+        Необходимо изготовление компенсационных втулок шириной 4мм
+    </string>
+
+    <!-- 205 bearing -->
+    <string name="bearing_205">Подшипник 205</string>
+
+    <!-- 206 bearing -->
+    <string name="bearing_206">Подшипник 206</string>
+
+    <!-- 207 bearing -->
+    <string name="bearing_207">Подшипник 207</string>
+    <string name="cage_brass">Solid brass cage</string>
+    <string name="cage_polyamide">Solid polyamide snap cage, ball guided</string>
+
+    <!-- 209 ball bearing -->
+    <string name="bearing_209_ball">Подшипник 209</string>
+
+    <!-- 209 roller bearing -->
+    <string name="bearing_209_roller">Подшипник 42209</string>
+
+    <!-- Bearing 304 -->
+    <string name="bearing_304">Подшипник 304</string>
+
+    <!-- 778707 bearing -->
+    <string name="bearing_778707">Подшипник 778707</string>
+
+    <!-- 3086304 bearing -->
+    <string name="bearing_3086304">Подшипник 3086304Л</string>
+
+    <!-- 874901 bearing -->
+    <string name="bearing_874901">Подшипник 874901</string>
+
+    <!-- 7000105 bearing -->
+    <string name="bearing_7000105">Подшипник 7000105</string>
+
+    <!-- 110 bearing -->
+    <string name="bearing_110">Подшипник 110</string>
+
+    <!-- 948066 bearing -->
+    <string name="bearing_clutch_bearing">Подшипник 948066</string>
+    <string name="bearing_clutch_replacement_feautures">Используется с кольцами</string>
+    <string name="bearing_washer_1">Кольцо 1, \nразмеры,мм</string>
+    <string name="bearing_washer_2">Кольцо 2, \nразмеры, мм</string>
+    <string name="bearing_clutch_replacement_kit_dimencions">
+        Размеры комплекта заменителя, мм
+
+    </string>
+    
+    <!-- 864708 ДМ -->
+    <string name="bearing_connecting_rod_big_end">Подшипник нижней головки шатуна</string>
+    <string name="bearing_conrod_big_end_rollers_material">ШХ-15</string>
+    <string name="bearing_conrod_big_end_cage_material">Дюраль</string>
+
+    <!-- Conrod half bearing -->
+    <string name="moskvitch408_halfbearing">Шатунный вкладыш автомобиля Москвич-408</string>
+    <string name="conrod_journal_diameter_for_halfbearing">
+        Приведенный размер - диаметр шатунной шейки коленвала
+    </string>
+
+    <!-- Conrod small end bushing -->
+    <string name="conrod_small_end_bushing">Втулка верхней головки шатуна</string>
+
+
+    <!-- Final drive hub half bearing -->
+    <string name="final_drive_hub_half_bearing">Вкладыши ступицы редуктора</string>
+    <string name="final_drive_hub_half_bearing_button">Вкладыши \n7205238 \n7205239</string>
+    <string name="kit_45pcs">Комплект 45 шт.</string>
+
+
+    <!-- Camshaft bushing -->
+    <string name="camshaft_rear_bushing">Задняя втулка распредвала</string>
+    <string name="camshaft_front_bearing_assy">Передний подшипник распредвала в сборе</string>
+    <string name="camshaft_front_bushing">Передняя втулка распредвала</string>
+
+
+    <!-- Bearing 12204 -->
+    <string name="bearing_clutch_shaft">Подшипник первичного вала КПП</string>
+
+
+
+
+
+
+    <!-- Seals -->
+    <string name="seal">Сальник</string>
+    <string name="felt_sealing_ring">Уплотнительное кольцо из войлока</string>
+    <string name="direction_of_seal_rotation">Направленность</string>
+
+
+    <!-- 6206006 seal -->
+    <string name="seal_wheel_hub">Сальник ступицы колеса</string>
+
+    <!-- Seal crankshaft 50x70 -->
+    <string name="seal_crankshaft">Сальник коленвала</string>
+
+    <!-- Seal camshaft 16x30 -->
+    <string name="seal_camshaft">Сальник распредвала</string>
+
+    <!-- Seal gearbox 6204 clutch shaft -->
+    <string name="seal_gearbox6204_clutch_shaft">Сальник первичного вала КПП</string>
+
+    <!-- Seal gearbox 6204 main shaft -->
+    <string name="seal_gearbox6204_main_shaft">Сальник вторичного вала КПП</string>
+    <string name="drive_fork_damping_clutch_turning">
+        Необходима проточка ведущей вилки демпфирующей муфты кардана
+    </string>
+
+    <!-- Seal gearbox 6204 kickstarter shaft -->
+    <string name="seal_gearbox6204_kickstarter_shaft">Сальник кикстартера</string>
+    <string name="kikstarter_shaft_rear_bushing_mashining">
+        Необходима доработка задней втулки вала кикстартера (проточка родной или изготовление новой)
+    </string>
+
+    <!-- Seal gearbox 6204 side covers -->
+    <string name="seal_gearbox6204_side_covers">Сальник левой и правой крышек картера КПП</string>
+
+    <!-- Seal final drive casing seal -->
+    <string name="seal_final_drive_casing">Сальник редуктора</string>
+
+    <!-- Seal clutch release rod -->
+    <string name="seal_clutch_release_rod">Сальник штока выключения сцепления</string>
+    <string name="clutch_release_rod">Шток выключения сцепления</string>
+    <string name="felt_7203213">7203213 \n(войлок)</string>
+    <string name="rubber_75003213_a">75003213-А \n(резина)</string>
+    <string name="rubber_6326155">6326155 \n(резина)</string>
+    <string name="rubber_7203213_20">7203213-20 \n(резина)</string>
+
+    <!-- Seal universal joint fork seal -->
+    <string name="seal_universal_joint_fork">Сальник вилки карданного шарнира</string>
+    <string name="final_drive_bearing_nut_turning">
+        Необходима проточка гайки подшипника редуктора
+    </string>
+    <string name="final_drive_bearing_nut_and_universal_joint_fork_turning">
+        Необходима проточка гайки подшипника редуктора и вилки карданного шарнира
+    </string>
+
+
+
+
+
+
+    <!-- Spark plugs -->
+    <string name="spark_plugs">Свечи зажигания</string>
+    <string name="spark_plugs_and_oil_filter">Свечи зажигания и масляный фильтр</string>
+    <string name="spark_plug">Свеча зажигания</string>
+    <string name="spark_plug_old">Свеча запальная</string>
+    <string name="designation">Обозначение</string>
+    <string name="over_10">ок. 10</string>
+    <string name="thread_dimencions">Размерность резьбы, мм</string>
+    <string name="thread_length">Длина резьбовой части, мм</string>
+    <string name="spark_plug_gap">Зазор между электродами, мм</string>
+    <string name="heat_range_code_number">Калильное число</string>
+    <string name="replacers">Заменители</string>
+    <string name="general_spark_plugs_table">общая таблица свечей</string>
+    <string name="conditions_of_use">Условия использования</string>
+    <string name="winter_or_cold_conditions">В условиях зимы или холода</string>
+    <string name="medium_temperatures_conditions">В условиях средних температур</string>
+    <string name="hot_or_hard_conditions">В условиях жары или высоких нагрузок</string>
+
+
+    <!--Materials -->
+    <string name="aluminium_alloy_kc245">Алюминиевый сплав КС-245</string>
+    <string name="camshaft_front_bushing_material">Алюминиевый сплав АЛ-5</string>
+    <string name="at_piston_material">Алюминиевый сплав АК12Д или АК18Д</string>
+    <string name="bronze">Бронза</string>
+    <string name="camshaft_rear_bushing_material">БрАЖМц10-3-1.5</string>
+    <string name="conrod_small_end_bushing_material">БрОФ10</string>
+
+
+
+
+
+
+
+
+
+</resources>

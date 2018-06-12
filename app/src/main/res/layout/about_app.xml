@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center_horizontal"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text0"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text1"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text1"
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text3"
+                    android:layout_width="300dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentStart="false"
+                    android:layout_below="@+id/text2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text4"
+                    android:layout_width="300dp"
+                    android:layout_height="0dp"
+                    android:layout_below="@id/text3"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text4_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text4"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text4"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text4_1_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text4_1"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text4_0"
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text4_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text4_1_1"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text4_1"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text4_2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_horizontal"
+                    android:text="@string/about_app_text5"
+                    android:textSize="12sp" />
+
+
+                <TextView
+                    android:id="@+id/text7"
+                    android:layout_width="60dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text6"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="English"
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text8"
+                    android:layout_width="60dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text7"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="Русский"
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/whatUpdates"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text8"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_what_updates"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/updates"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/whatUpdates"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_horizontal"
+                    android:text="@string/about_app_updates"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text5_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/updates"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text5_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/text5_1"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <ImageView
+                    android:id="@+id/image_change_orientation"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/text5_2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp" />
+
+                <TextView
+                    android:id="@+id/text5_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/image_change_orientation"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text5_3"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text7"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text9"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text8"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text10"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text9"
+                    android:textAlignment="center"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text11"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text10"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text12"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text11"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text14"
+                    android:layout_width="60dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text13"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="Polski"
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text14"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text12"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text15"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text13"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text17"
+                    android:layout_width="60dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text16"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="Français "
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text17"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text14"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text18"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text15"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text19"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text16"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text21"
+                    android:layout_width="70dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/text20"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="Українська"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text22"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text21"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text17"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text23"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text22"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text18"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text24"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text23"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/about_app_text19"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text25"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text24"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="40dp"
+                    android:gravity="center"
+                    android:text="@string/about_app_text25"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/email"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text25"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:text="E-mail"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/myEmail"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/email"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:text="pazuk1985@gmail.com"
+                    android:textAlignment="gravity"
+                    android:textColor="?attr/colorPrimary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text26"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/myEmail"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="6dp"
+                    android:gravity="center"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/myFB"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text26"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/year2017"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/myFB"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:text="12 2017"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/minskBelarus"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/year2017"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:text="Minsk, Biełarus'"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/text30"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/minskBelarus"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="200dp"
+                    android:gravity="center"
+                    android:text=""
+                    android:textAlignment="gravity"
+                    android:textSize="12sp" />
+
+                <ImageView
+                    android:id="@+id/image_usa"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/text7"
+                    android:layout_toLeftOf="@+id/text7"
+                    android:layout_toStartOf="@+id/text7"
+                    app:srcCompat="@drawable/flag_usa" />
+
+                <ImageView
+                    android:id="@+id/image_uk"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/image_usa"
+                    android:layout_toLeftOf="@+id/image_usa"
+                    android:layout_toStartOf="@+id/image_usa"
+                    app:srcCompat="@drawable/flag_uk" />
+
+                <ImageView
+                    android:id="@+id/image_russia"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/text8"
+                    android:layout_toLeftOf="@+id/text8"
+                    android:layout_toStartOf="@+id/text8"
+                    app:srcCompat="@drawable/flag_russia" />
+
+                <ImageView
+                    android:id="@+id/image_ussr"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/image_russia"
+                    android:layout_toLeftOf="@+id/image_russia"
+                    android:layout_toStartOf="@+id/image_russia"
+                    app:srcCompat="@drawable/flag_ussr" />
+
+                <ImageView
+                    android:id="@+id/image_poland"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/text14"
+                    android:layout_toLeftOf="@+id/text14"
+                    android:layout_toStartOf="@+id/text14"
+                    app:srcCompat="@drawable/flag_poland" />
+
+                <ImageView
+                    android:id="@+id/image_france"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/text17"
+                    android:layout_toLeftOf="@+id/text17"
+                    android:layout_toStartOf="@+id/text17"
+                    app:srcCompat="@drawable/flag_france" />
+
+                <ImageView
+                    android:id="@+id/image_"
+                    android:layout_width="40dp"
+                    android:layout_height="20dp"
+                    android:layout_alignTop="@+id/text21"
+                    android:layout_toLeftOf="@+id/text21"
+                    android:layout_toStartOf="@+id/text21"
+                    app:srcCompat="@drawable/flag_ukraine" />
+
+
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

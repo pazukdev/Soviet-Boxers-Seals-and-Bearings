@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center">
+
+
+    <ScrollView
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textAlignment="center">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:stretchColumns="*">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView17"
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:textAlignment="center" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView51"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:text="@string/seal_universal_joint_fork"
+                        android:textAlignment="center"
+                        android:textColor="?attr/colorPrimary"
+                        android:textSize="12sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView52"
+                        android:layout_width="wrap_content"
+                        android:layout_height="8dp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+
+                    <TableLayout
+                        android:layout_width="300dp"
+                        android:layout_height="match_parent"
+                        android:layout_span="3"
+                        android:gravity="center_horizontal"
+                        android:shrinkColumns="3"
+                        android:stretchColumns="*">
+
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView92"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="@string/original_part"
+                                android:textAlignment="gravity"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView91"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="@string/dimencions_of_original"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView89"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="@string/motorcycle_models_list"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView102"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="7205334"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView96"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="33x49,3x8 \n(33x49,4x8)"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView94"
+                                android:layout_width="100dp"
+                                android:layout_height="40dp"
+                                android:gravity="center"
+                                android:text="К-750М \n(M63, M66)"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView105"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="7205033"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView104"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="33x49,3x8 \n(33,8x49,3x8)"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView103"
+                                android:layout_width="100dp"
+                                android:layout_height="40dp"
+                                android:gravity="center"
+                                android:text="K-750 \n(MT-11)"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView108"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="65005033"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView107"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="-"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView106"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:gravity="center"
+                                android:text="MT-9, MT-10"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView11y1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="6205334"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView11y0"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="33x49,4x8"
+                                android:textAlignment="center"
+                                android:textSize="10sp" />
+
+                            <TextView
+                                android:id="@+id/textView10y9"
+                                android:layout_width="100dp"
+                                android:layout_height="70dp"
+                                android:gravity="left|center_vertical"
+                                android:text="Урал М67-36 \nИМЗ-8.103-10 \nИМЗ-8.103-40 \nИМЗ-8.123-10 \nИМЗ-8.107"
+                                android:textAlignment="gravity"
+                                android:textSize="10sp" />
+                        </TableRow>
+
+                    </TableLayout>
+                </TableRow>
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textViewtt58"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/direction_of_rotation"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2478tt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView21t7"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="@string/rotation_left"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView11843158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView31"
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content" />
+
+                    <Button
+                        android:id="@+id/button_replacer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:gravity="center"
+                        android:text="BMW 33213038278"
+                        android:textAlignment="gravity"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/tbextView15f8"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/texbtView23f78"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/tbextView121f7"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="34x49.3x9.5"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView1184rr3158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement_1"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textVierrhw31"
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content" />
+
+                    <Button
+                        android:id="@+id/button_replacer1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:gravity="center"
+                        android:text="Corteco 19036249B"
+                        android:textAlignment="gravity"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView11158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/feauture_of_replacement_1"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2378111"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1217223"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/rotation_right_direction"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView158yy"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement_1"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2378yy7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1217de"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="33х49х8"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView28j8"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement_2"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView227j8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView287j"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="Musashi S4888"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView1115f8"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/feauture_of_replacement_2"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView23781f11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView121722f3"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="@string/rotation_right_direction"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView15f8"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement_2"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView23f78"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView121f7"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="33х49х8"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView288"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement_3"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2278"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView287"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="Corteco 12011140B"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView1115865"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/feauture_of_replacement_3"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView23781tr11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView121724323"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="@string/final_drive_bearing_nut_turning"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement_3"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2378"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1217"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="33х50x6"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textV56tiew288"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement_4"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2278tt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textV54eiew287"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="Corteco 12011141B"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textnnView11158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/feauture_of_replacement_4"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView237bf68111"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1217vffr5223"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="@string/final_drive_bearing_nut_turning"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textViezzxw158"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement_4"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView23yh78"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1216ytr7"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="33х50x10"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView58"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/modern_replacement_5"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView2478"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView217"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="Corteco 46081196B"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textVftiew288"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/feauture_of_replacement_5"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView227ty8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textVie5tw287"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="@string/final_drive_bearing_nut_and_universal_joint_fork_turning"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/textView1118958"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:text="@string/dimencions_of_replacement_5"
+                        android:textAlignment="textStart"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/textView23787111"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|start"
+                        android:textAlignment="textStart" />
+
+                    <TextView
+                        android:id="@+id/textView1217ww223"
+                        android:layout_width="100dp"
+                        android:layout_height="26dp"
+                        android:gravity="center|start"
+                        android:text="32x50x8"
+                        android:textAlignment="viewStart"
+                        android:textSize="10sp" />
+
+                </TableRow>
+
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

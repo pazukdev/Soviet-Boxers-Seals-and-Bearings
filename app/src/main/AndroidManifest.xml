@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="by.pazukdev.sovietboxersbearings">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/MyAppTheme">
+        <activity android:name="by.pazukdev.sovietboxersbearings.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AboutApp" />
+
+        <activity android:name=".Different" />
+
+        <activity android:name=".DifferentCalNovember2017" android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+        <activity android:name=".DifferentCalNovember2017Ukr" android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+        <activity android:name=".DifferentM63Art" android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+
+
+
+        <activity android:name=".ModelM72"/>
+        <activity android:name=".ModelM72M"/>
+        <activity android:name=".ModelM72N"/>
+        <activity android:name=".ModelK750"/>
+        <activity android:name=".ModelK750V"/>
+        <activity android:name=".ModelK750M" />
+        <activity android:name=".ModelMV750"/>
+        <activity android:name=".ModelMV750M"/>
+        <activity android:name=".ModelMT12"/>
+
+        <activity android:name=".ModelM61"/>
+        <activity android:name=".ModelM62"/>
+        <activity android:name=".ModelM63"/>
+        <activity android:name=".ModelM66"/>
+        <activity android:name=".ModelM67"/>
+        <activity android:name=".ModelM67_36"/>
+
+        <activity android:name=".ModelK650"/>
+        <activity android:name=".ModelMT9"/>
+        <activity android:name=".ModelMT10"/>
+        <activity android:name=".ModelMT10_36"/>
+        <activity android:name=".ModelMV650"/>
+        <activity android:name=".ModelMV650M"/>
+        <activity android:name=".ModelMT11"/>
+        <activity android:name=".ModelMT16"/>
+
+        <activity android:name=".UnitEngineM72" />
+        <activity android:name=".UnitEngineK750"/>
+        <activity android:name=".UnitEngineK750M"/>
+
+        <activity android:name=".UnitEngineM61"/>
+        <activity android:name=".UnitEngineM62"/>
+        <activity android:name=".UnitEngineM66"/>
+        <activity android:name=".UnitEngineM67"/>
+        <activity android:name=".UnitEngineM67_36"/>
+
+        <activity android:name=".UnitEngineK650"/>
+        <activity android:name=".UnitEngineMT9"/>
+        <activity android:name=".UnitEngineMT10"/>
+        <activity android:name=".UnitEngineMT10_36"/>
+        <activity android:name=".UnitEngineMT11"/>
+
+        <activity android:name=".UnitGearbox810104001"/>
+        <activity android:name=".UnitGearbox6204"/>
+        <activity android:name=".UnitGearbox6204M62"/>
+        <activity android:name=".UnitGearbox7204"/>
+        <activity android:name=".UnitGearboxMT804"/>
+        <activity android:name=".UnitGearboxKMZ8155"/>
+
+        <activity android:name=".UnitFinalDriveM72"/>
+        <activity android:name=".UnitFinalDriveK750M"/>
+        <activity android:name=".UnitFinalDriveM62"/>
+        <activity android:name=".UnitFinalDriveM63"/>
+        <activity android:name=".UnitFinalDriveK750"/>
+        <activity android:name=".UnitFinalDriveMT11"/>
+        <activity android:name=".UnitFinalDriveMod2wdMV750"/>
+        <activity android:name=".UnitFinalDriveMod2wdMV750M"/>
+
+        <activity android:name=".UnitFinalDriveSidecarKMZ"/>
+
+        <activity android:name=".UnitGeneratorG11A" />
+        <activity android:name=".UnitGeneratorG414"/>
+        <activity android:name=".UnitGeneratorG424"/>
+
+        <activity android:name=".UnitFrameM72"/>
+        <activity android:name=".UnitFrameM72M"/>
+        <activity android:name=".UnitFrameM72N" />
+        <activity android:name=".UnitFrameK750"/>
+        <activity android:name=".UnitFrameK750M"/>
+
+        <activity android:name=".UnitFrameMT10_36"/>
+        <activity android:name=".UnitFrameMV650"/>
+
+        <activity android:name=".UnitFrameM62"/>
+        <activity android:name=".UnitFrameM63"/>
+        <activity android:name=".UnitFrameM66"/>
+        <activity android:name=".UnitFrameM67"/>
+        <activity android:name=".UnitFrameMV750"/>
+        <activity android:name=".UnitFrameMV750M"/>
+
+        <activity android:name=".ModelsListSV"/>
+        <activity android:name=".ModelsList650ccIMZ"/>
+        <activity android:name=".ModelsList650ccKMZ"/>
+
+
+        <activity android:name=".Bearing110" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing18" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing200" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing201" android:screenOrientation="portrait" />
+        <activity android:name=".BearingGeneratorG424" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing204" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing303" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing206" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing207" android:screenOrientation="portrait"/>
+        <activity android:name=".Bearing6207M" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing32207" android:screenOrientation="portrait" />
+        <activity android:name=".BearingNU207M" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing209Roller" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing209Ball" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing205" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing7204" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing778707" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing3086304L" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing3304FAG" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing874901" android:screenOrientation="portrait" />
+        <activity android:name=".BearingUniversalJoint" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRoller6halfX6half_mm" android:screenOrientation="portrait" />
+        <activity android:name=".BearingNeedleFrontForkK750" android:screenOrientation="portrait" />
+        <activity android:name=".BearingNeedle3x16mm" android:screenOrientation="portrait" />
+        <activity android:name=".BearingClutchBearing" android:screenOrientation="portrait" />
+        <activity android:name=".BearingConrodBigEndM72" android:screenOrientation="portrait" />
+        <activity android:name=".BearingConrodBigEndM66" android:screenOrientation="portrait" />
+        <activity android:name=".BearingConrodK40x50x17" android:screenOrientation="portrait"/>
+        <activity android:name=".BearingConrodSmallEnd" android:screenOrientation="portrait" />
+        <activity android:name=".BearingCamshaftBushingRear" android:screenOrientation="portrait" />
+        <activity android:name=".BearingCamshaftBearingFront" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing12204" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing304" android:screenOrientation="portrait" />
+        <activity android:name=".Bearing7000105" android:screenOrientation="portrait" />
+        <activity android:name=".BearingHalfBearing" android:screenOrientation="portrait" />
+        <activity android:name=".BearingHalfBearingM72FD" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRollerM72_7x10mm" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRollerM72_cage" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRollerM66_5x12mm" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRollerM66_cage" android:screenOrientation="portrait" />
+        <activity android:name=".BearingRollerM66_5x12mm_2" android:screenOrientation="portrait" />
+
+        <activity android:name=".SealCrankshaft50x70" android:screenOrientation="portrait" />
+        <activity android:name=".SealCrankshaftDnepr" android:screenOrientation="portrait" />
+        <activity android:name=".SealCrankshaftFelt" android:screenOrientation="portrait" />
+        <activity android:name=".SealWheelHubFelt" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox7204Felt" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox7204Gearshift" android:screenOrientation="portrait" />
+        <activity android:name=".SealCamshaft15x30" android:screenOrientation="portrait" />
+        <activity android:name=".SealWheelHub" android:screenOrientation="portrait" />
+        <activity android:name=".SealSteeringHeadK750Lower" android:screenOrientation="portrait" />
+        <activity android:name=".SealSteeringHeadK750Upper" android:screenOrientation="portrait" />
+        <activity android:name=".SealSteeringHeadMT10_36" android:screenOrientation="portrait" />
+        <activity android:name=".SealGeneratorG414" android:screenOrientation="portrait" />
+        <activity android:name=".SealGeneratorG424" android:screenOrientation="portrait" />
+        <activity android:name=".SealFinalDriveCasing" android:screenOrientation="portrait" />
+        <activity android:name=".SealUniversalJointFork" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearshiftLever" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox6204ClutchShaft" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearboxMTClutchShaft" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox6204MainShaft" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearboxMTMainShaft" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox6204Kickstarter" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearboxMTKickstarter" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox6204SideCovers" android:screenOrientation="portrait" />
+        <activity android:name=".SealGearbox810104001Kickstarter" android:screenOrientation="portrait" />
+        <activity android:name=".SealClutchReleaseRodKMZ" android:screenOrientation="portrait" />
+        <activity android:name=".SealClutchReleaseRod6204" android:screenOrientation="portrait" />
+
+        <activity android:name=".SealFDCasingBMW" android:screenOrientation="portrait" />
+        <activity android:name=".SealFDCasingBMW2" android:screenOrientation="portrait" />
+        <activity android:name=".SealFDCasingMotoBoxer" android:screenOrientation="portrait" />
+        <activity android:name=".SealFDCasingCorteco59" android:screenOrientation="portrait" />
+
+        <activity android:name=".SealFDUniversalJointBMW" android:screenOrientation="portrait" />
+        <activity android:name=".SealFDUniversalJointCorteco" android:screenOrientation="portrait" />
+
+
+        <activity android:name=".OilFilterM66" android:screenOrientation="portrait"/>
+        <activity android:name=".OilFilterM67_36" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterHF895" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterLyvny" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterEmgo" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterOX35" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterHF161" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterMannW75" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterHF161Adapter" android:screenOrientation="portrait" />
+        <activity android:name=".OilFilterMannW75Adapter" android:screenOrientation="portrait" />
+
+        <activity android:name=".UniversalJointCrossAssembly"/>
+        <activity android:name=".UniversalJointCross" android:screenOrientation="portrait" />
+        <activity android:name=".UniversalJointLockRing" android:screenOrientation="portrait" />
+        <activity android:name=".UniversalJointLockRingDIN" android:screenOrientation="portrait" />
+
+
+
+
+        <activity android:name=".PistonRingsKit79mmMahle" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKit79mmKS" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKit79mmGoetze" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitDneprMotus" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitUralMotus" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitUralAlmot" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitM72Almot" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitDneprK650" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitDneprMT11" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitM72" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitK750" android:screenOrientation="portrait" />
+        <activity android:name=".PistonRingsKitUral" android:screenOrientation="portrait" />
+
+
+        <activity android:name=".PistonDneprK650" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT9" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT10_36" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT11" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72" android:screenOrientation="portrait" />
+        <activity android:name=".PistonK750" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUral" android:screenOrientation="portrait" />
+
+        <activity android:name=".PistonDneprAlmot" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72Almot" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAlmot" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprAlmot79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72Almot79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAlmot79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprAT79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72AT79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAT79" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAT78" android:screenOrientation="portrait" />
+
+
+        <activity android:name=".PistonDneprAlmotAssembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72AlmotAssembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAlmotAssembly" android:screenOrientation="portrait" />
+
+        <activity android:name=".PistonDneprK650Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT9Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT10_36Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonDneprMT11Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonM72Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonK750Assembly" android:screenOrientation="portrait" />
+        <activity android:name=".PistonUralAssembly" android:screenOrientation="portrait" />
+
+
+
+
+
+
+
+        <activity android:name=".PistonPin21x66mm" android:screenOrientation="portrait" />
+        <activity android:name=".PistonPin21x66mmMotus" android:screenOrientation="portrait" />
+
+        <activity android:name=".PistonPinCirclip" android:screenOrientation="portrait" />
+
+
+
+
+        <activity android:name=".SP_ScrewPoleShoe" android:screenOrientation="portrait" />
+        <activity android:name=".SP_ScrewPoleShoeDIN" android:screenOrientation="portrait" />
+        <activity android:name=".SP_ScrewClutch" android:screenOrientation="portrait" />
+        <activity android:name=".SP_ScrewClutchDIN" android:screenOrientation="portrait" />
+        <activity android:name=".SP_BoltFlywheel" android:screenOrientation="portrait" />
+        <activity android:name=".SP_BoltFlywheelBMW" android:screenOrientation="portrait" />
+        <activity android:name=".SP_ValveUralIntake" android:screenOrientation="portrait" />
+        <activity android:name=".SP_CardanShaftRing" android:screenOrientation="portrait" />
+        <activity android:name=".SP_CardanShaftRingDIN" android:screenOrientation="portrait" />
+        <activity android:name=".SP_CardanShaftRingDIN1" android:screenOrientation="portrait" />
+        <activity android:name=".SP_CardanShaftRingDIN2" android:screenOrientation="portrait" />
+
+
+
+        <activity android:name=".SparkPlugNA11_11A" android:screenOrientation="portrait" />
+        <activity android:name=".SparkPlugA8U" android:screenOrientation="portrait" />
+        <activity android:name=".SparkPlugA10NT" android:screenOrientation="portrait" />
+        <activity android:name=".SparkPlugA11N" android:screenOrientation="portrait" />
+        <activity android:name=".SparkPlugA14V" android:screenOrientation="portrait" />
+        <activity android:name=".SparkPlugA17V" android:screenOrientation="portrait" />
+
+
+
+
+
+
+
+
+
+    </application>
+
+</manifest>

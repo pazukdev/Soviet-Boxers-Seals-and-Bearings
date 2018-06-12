@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center|start"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:shrinkColumns="*"
+                android:stretchColumns="*">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView17"
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:textAlignment="center" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textView51"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_span="3"
+                        android:gravity="center"
+                        android:text="@string/different_things"
+                        android:textAlignment="center"
+                        android:textColor="?attr/colorPrimary"
+                        android:textSize="12sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/text1_1"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="right|center_vertical"
+                        android:text="@string/calendar_november_2017"
+                        android:textAlignment="gravity"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/text1_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <ImageButton
+                        android:id="@+id/button1"
+                        android:layout_width="120dp"
+                        android:layout_height="90dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:elevation="1dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/november2017_for_app_small" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/text2_1"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="right|center_vertical"
+                        android:text="@string/calendar_november_2017_ukr"
+                        android:textAlignment="gravity"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/text2_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <ImageButton
+                        android:id="@+id/button2"
+                        android:layout_width="120dp"
+                        android:layout_height="90dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:elevation="1dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/november2017_ukr_for_app_small" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/text3_1"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="right|center_vertical"
+                        android:text="М-63 Урал-2"
+                        android:textAlignment="gravity"
+                        android:textSize="10sp" />
+
+                    <TextView
+                        android:id="@+id/text3_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <ImageButton
+                        android:id="@+id/button3"
+                        android:layout_width="120dp"
+                        android:layout_height="90dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:elevation="1dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/model_m63_teaser_for_app_small" />
+
+                </TableRow>
+
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

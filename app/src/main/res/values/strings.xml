@@ -1,0 +1,1233 @@
+<resources>
+    <!-- <string name="app_name">Soviet Boxer Bearings</string> -->
+
+
+
+    <!-- layout_main -->
+    <string name="layout_main_text1">
+        Welcome to
+        \nBoxers Seals and Bearings
+        \napplication
+    </string>
+
+    <string name="layout_main_text2">
+        In this app you can find information about seals and bearings using in different models of
+        old Soviet boxers: catalogue part numbers, dimencions and information about existing
+        alternative parts for replacement
+    </string>
+
+    <string name="layout_main_text3">
+        Select branch according with period of production, manufacturer and engine type and capacity
+        of your motorcycle
+    </string>
+
+    <string name="layout_main_text4">
+        Old Soviet Boxers(1941-1994)
+    </string>
+
+    <string name="layout_main_text5">
+        Late Russian 650CC и 720CC boxers
+        \n(since 1991)
+    </string>
+
+    <string name="layout_main_text6">Modern Russian 750CC boxers (since 1998)</string>
+    <string name="about_app">About application</string>
+    <string name="buttonSV">750CC SV</string>
+    <string name="button650ccIMZ">650CC OHV ИМЗ</string>
+    <string name="button650ccKMZ">650CC OHV КМЗ</string>
+    <string name="button650_720ccOHV">650CC и 720CC OHV</string>
+    <string name="button750ccOHV">750CC OHV</string>
+    <string name="different_things">Different things</string>
+
+
+    <!-- About app -->
+
+    <string name="about_app_text0">
+        1. About application
+    </string>
+
+    <string name="about_app_text1">
+        This application is something like a table with seals and bearings using in old Soviet
+        boxers and alternative replacers, but modified and made as phone application
+    </string>
+
+    <string name="about_app_text2">
+        1. First of all - dose of bad form. But this is IMPORTANT
+    </string>
+
+    <string name="about_app_text3">
+        In GooglePlay you can find this app in 2 versions: free and paid. Paid version have no any
+         advantages or bonus futures. Free and paid versions are the same. Downloading of paid
+        version - it is donate for this app. If the app was useful for somebody and he like
+        this app, and, at the same time, he have financial opportunity and wish to help with development
+        and updateing of app, so he can download paid version
+    </string>
+
+    <string name="about_app_text4">
+        2.1 Current application version:
+    </string>
+
+    <string name="about_app_text4_0">1.01 free version</string>
+
+    <string name="about_app_text4_1">
+        2.2 What localisations are existing
+    </string>
+
+    <string name="about_app_text5">
+        App available in 2 languages:
+    </string>
+
+    <string name="about_app_what_updates">
+        2.3 What was fixed, changed and added in last update
+    </string>
+
+    <string name="about_app_updates">
+        \n     First little hot-fix:
+        \n
+        \n     Fixed:
+        \n  1. Year of end of manufacturing of M-72 model changed to 1957, of M-72M model changed to 1960
+        \n  2. Bug with 1 journal bearing in all SV and most of Urals models engines was fixed
+        \n  3. Bug with MT-10-36 type engine opening error was fixed
+        \n  4. Feature when  picture  become big and fill the screen when you change orientation
+        of phone to horisontal was deleted from description in "About app" page. At first, all the
+        same it doesent worked in most of Android versions. And secondly, whole page will turning
+        instead of it (look paragraph below)
+        \n  5. Fixing of bad visualisation of screen content in phones and tablets with large high
+        resolution screens is started. Indents of texts and pictures from border of screen in
+        phones and tablets large screens  should to stop to be so large, and should to become more
+        or less the same for most of devices. In this update to that new content visualisation form
+        are already  changed main screens of motorsycles models and pages of
+        units (engines, gearboxes, final drives, frames and wheels)
+        \n
+        \n      Updates:
+        \n   1. Information about possebility to donate the app with downloading of paid version
+        of app was deleted from "About app" page. Because paid version still not existing
+        on Google Play. And, maybe, paid version will never exist
+        \n   5. Paragraph with specifying of fixes and changes of last update  was added to "About app" page
+        \n   6. Updated list of what is planning to add to app in future
+    </string>
+
+    <string name="about_app_text5_1">
+        2.4 About one feauture of app interface
+    </string>
+
+    <string name="about_app_text5_2">
+        If you see in app screen picture, which is too small, to see details in it, try to turn
+        phone to horisontal position. Usually, after that the picture become bigger and
+        fill the screen
+    </string>
+
+    <string name="about_app_text5_3">
+        For return of previous small size of the picture turn phone to vertical position again
+    </string>
+
+    <string name="about_app_text7">
+        3. Few words about from what resources was taken information for the app
+    </string>
+
+    <string name="about_app_text8">
+          Original users manuals, spare parts catalogues and army repair and maintenance guides of
+        М-72, М-72Н, К-750, К-750В, МВ-750, К-750М, М-63, К-650, М-66, МТ-9,
+        МВ-750М, МТ-10, МТ-10-36, М-67-36, МВ-650М, МТ-11, МТ-12, МТ-16 и ИМЗ 8.103.
+        Most of these literature was found in <b>ghost.in.ua</b> website.
+
+        \n  M-72 original drawings. You can find in internet and download em free.
+
+        \n  <b>oppozit.ru</b> website forum. Where I would like to tell about topic of forum user
+        Creazyhead \" Урал/Днепр. Подшипники и их импортные аналоги \" from what that app was beginning.
+        Additionally in that website was found part of used for app literature.
+        \n  Some content for app i found in easthighway.com, moto-boxer.com and maxbmwmotorcycles.com websites.
+        \n  Thanks to my friend and comrade in boxers Viktor for part of used literature. And for info about M-72 models.
+        \n  Thanks to Dmitry Faust for info about Dneprs models
+    </string>
+
+    <string name="about_app_text9">
+        4. Now few words about what updates are planned
+    </string>
+
+    <string name="about_app_text10">
+        I. In closest time and 100%:
+    </string>
+
+    <string name="about_app_text11">
+        - adding of Polish language:
+    </string>
+
+    <string name="about_app_text12">
+        II. In somewhat more distant future and with doubts:
+    </string>
+
+    <string name="about_app_text13">
+        -adding of French language:
+    </string>
+
+    <string name="about_app_text14">
+        -adding of valves and valves guides
+    </string>
+
+    <string name="about_app_text15">
+        III. In far foggy future:
+    </string>
+
+    <string name="about_app_text16">
+        - adding of Ukrainian language:
+    </string>
+
+    <string name="about_app_text17">
+        - drawing and adding of new drawings of models М-61, М-62, М-67, М-67-36
+        \n- adding of models ИМЗ-8.103-30 и ИМЗ-8.103-10
+    </string>
+
+    <string name="about_app_text18">
+        IV. Fantasy:
+    </string>
+
+    <string name="about_app_text19">
+        - adding of branch <b>Late Russian 650CC and 720CC boxers (since 1991)</b>
+        \n- adding of branch <b>Modern Russian 750CC boxers (since 1998)</b>
+        \n- adding of M-52 model:
+        \n
+        \n- adding of different electrical parts:
+        \n-    ignition systems
+        \n-    ignition coils
+        \n-    ignition HT leads and spark plugs cups
+        \n-    toggles / switchs
+        \n-    electrical brushes for alternators and generators
+        \n-    light bulbs
+        \n-    batteries
+        \n
+        \n- adding of more detailed information about recommended motor and gear oils
+        \n- adding of recommended greases
+        \n- adding of tyres and tyres inner tubes
+        \n- adding of carburetors
+        \n- adding of parts of motors, gearboxes, final drives, frames and wheels
+        \n
+        \n- adding of links to spare parts for buying or adding of possibility of making
+        purchases from app
+    </string>
+
+    <string name="about_app_text25">
+        You can report about bug or error in application, ask a questions, express your wishes
+        or claims to app to my
+    </string>
+
+    <string name="about_app_text26">or Facebook</string>
+
+
+    <!-- Different things -->
+    <string name="calendar_november_2017">Calendar November 2017 Rus</string>
+    <string name="calendar_november_2017_ukr">Calendar November 2017 Ukr</string>
+
+    <!-- Different -->
+    <string name="different_2">2 different</string>
+    <string name="no">No</string>
+    <string name="no_content">Maybe it will be available later</string>
+    <string name="note_to_dimencions">Note to dimencions</string>
+    <string name="some_spare_parts">Some spare parts</string>
+    <string name="part_name">Part name</string>
+
+
+
+
+    <!-- Models lists -->
+
+    <!-- SV models list-->
+    <string name="button_M72">M-72</string>
+    <string name="button_M72M">M-72M</string>
+    <string name="button_M72N">M-72H</string>
+    <string name="button_K750">K-750</string>
+    <string name="button_K750B">K-750B</string>
+    <string name="button_K750M">K-750M</string>
+    <string name="button_MV750">MB-750</string>
+    <string name="button_MV750M">MB-750M</string>
+    <string name="button_mt12">Днепр МТ-12</string>
+
+    <!-- 650CC IMZ models list -->
+    <string name="button_M52">M52 (500СС)</string>
+    <string name="button_M61">M61 Ирбит</string>
+    <string name="button_M62">M62 Урал</string>
+    <string name="button_M63">M63 Урал-2</string>
+    <string name="button_M66">M66 Урал-3</string>
+    <string name="button_M67">M67 Урал</string>
+    <string name="button_M67_36">M67-36 Урал</string>
+    <string name="button_IMZ8103_30">ИМЗ-8.103-30</string>
+    <string name="button_IMZ8103_10">ИМЗ-8.103-10</string>
+
+    <!-- 650CC KMZ models list -->
+    <string name="button_K650">K650 Днепр (МТ-8)</string>
+    <string name="button_MT9">Днепр MТ-9</string>
+    <string name="button_MT10">Днепр MТ-10</string>
+    <string name="button_MT10_36">Днепр МТ-10-36</string>
+    <string name="button_MV650">МВ-650</string>
+    <string name="button_MV650M">МВ-650М</string>
+    <string name="button_MT11">Днепр МТ-11</string>
+    <string name="button_MT16">Днепр MT-16</string>
+
+    <!-- 750CC models list -->
+
+    <!-- Motorcycle scheme -->
+    <string name="engine">Engine</string>
+    <string name="gearbox">Gearbox</string>
+    <string name="final_drive">Final drive</string>
+    <string name="sidecar_reduction_drive">Sidecar reduction drive</string>
+    <string name="frame_and_wheels">Frame and wheels</string>
+    <string name="generator">Generator</string>
+
+
+
+
+
+    <!-- Motorcycles -->
+
+    <string name="motorcycle_models_list">Models list</string>
+    <string name="all_650CC_kmz_models">All 650СС КМЗ models</string>
+    <string name="all_650CC_imz_models">All 650СС ИМЗ models</string>
+    <string name="all_sv_models">All SV models</string>
+    <string name="all_soviet_boxers">All the Soviet boxers</string>
+    <string name="all_soviet_boxers_excluding_very_early_m72">
+        All the Soviet boxers with exception of very early M-72
+    </string>
+
+
+
+
+    <!-- SV models -->
+
+    <!-- M-72 -->
+    <string name="type_m72">М-72 type</string>
+    <string name="late_m72">(late, 194?-1957)</string>
+    <string name="button_engine_m72">М-72 type</string>
+    <string name="button_frame_m72">М-72 type</string>
+    <string name="hp_engine_m72">22 hp</string>
+    <string name="seal_engine_crankshaft_felt_dimencions">50x65x5,5</string>
+
+    <!-- M-72M -->
+    <string name="type_m72m">М-72М type</string>
+
+
+    <!-- M-72N -->
+    <string name="type_m72n">М-72Н type</string>
+
+
+    <!-- K-750 -->
+    <string name="type_k750">К-750 type</string>
+    <string name="button_engine_k750">К-750 type</string>
+    <string name="hp_engine_k750">26 hp</string>
+    <string name="steering_head_seal">Steering head seal</string>
+    <string name="upper">upper</string>
+    <string name="lower">lower</string>
+    <string name="felt_seal_6mm">Felt seal 6mm thickness</string>
+    <string name="rubber_seal">Rubber ring</string>
+    <string name="rear_bearing_housing_mashining">
+        Rear crankshaft bearing housing mashining needed
+    </string>
+
+
+    <!-- K-750M -->
+    <string name="type_k750m">К-750М type</string>
+    <string name="button_engine_k750m">К-750М type</string>
+
+    <!-- MV-750 -->
+    <string name="type_2wd_mv750">2wd МВ-750 type</string>
+    <string name="differential_with">- with differential</string>
+    <string name="differential_lock_with">- with differential lock</string>
+    <string name="type_mv750">МВ-750 type</string>
+
+    <!-- MV-750M -->
+    <string name="type_2wd_mv750m">2wd МВ-750М type</string>
+    <string name="differential_lock_without">- without differential lock</string>
+    <string name="type_mv750m">MВ-750М type</string>
+
+
+
+
+
+
+    <!-- 650CC IMZ models -->
+    <string name="type_imz">ИМЗ type</string>
+    <string name="type_old_imz">М61-М67 type</string>
+
+    <!-- M61 -->
+    <string name="button_engine_m61">М61 type</string>
+    <string name="hp_engine_m61">26 hp</string>
+
+    <!-- M62 -->
+    <string name="type_m62">М62 type</string>
+    <string name="button_engine_m62">M62 type</string>
+    <string name="hp_engine_m62">28 hp</string>
+    <string name="button_gearbox_6204_m62">6204 \nМ62 type</string>
+    <string name="gearbox_6204_m62">6204 М62 type</string>
+    <string name="g65_instead_of_g414">* Early М62 was equipped with Г-65 generator:</string>
+    <string name="button_g65">Г-65</string>
+    <string name="m62_6204_gearbox_feature">
+        6204 gearbox of М62 model was middle model between 7204 gearbox and \" classic \" 6204 gearbox:
+        inner parts of 6204 (rather, gears shifting clutches with small splines) + caseing from 7204.
+    </string>
+    <string name="final_drive_m62_feature">
+        Final drive М62 type is different from M72 type with that there are 45 needles 3x15,8mm instead of
+        halfbearings (part numbers 7205238 and 7205239).
+    </string>
+
+    <!-- M63 -->
+    <string name="type_m63">М63 type</string>
+
+    <!-- M66 -->
+    <string name="type_m66">М66 type</string>
+    <string name="button_engine_m66">M66 type</string>
+    <string name="hp_engine_m66">32 hp</string>
+    <string name="modification_1">Modification 1</string>
+    <string name="modification_2">Modification 2</string>
+    <string name="export_modification">(export modification *)</string>
+    <string name="according_with_m66_spare_parts_catalogue">
+        * According with Motorcycle Model M-66 Spare Parts Catalogue, AVTOEXPORT, USSR, Moscow
+    </string>
+
+
+    <!-- M67 -->
+    <string name="type_m67">М67 type</string>
+    <string name="button_engine_m67">М67 type</string>
+
+    <!-- M67-36 -->
+    <string name="type_m67_36">М67-36 type</string>
+    <string name="button_engine_m67_36">М67-36 type</string>
+    <string name="hp_engine_m67_36">36 hp</string>
+
+
+
+
+    <!-- 650CC KMZ models -->
+    <!-- K-650 -->
+    <string name="type_k650">К-650 type</string>
+    <string name="engine_k650">Engine K-650 type 32 hp</string>
+    <string name="button_engine_k650">К-650 type</string>
+
+    <!-- MT9 -->
+    <string name="type_mt9">МТ9 type</string>
+    <string name="engine_mt9">Engine МТ9 type 32 hp</string>
+    <string name="button_engine_mt9">МТ9 type</string>
+
+
+    <!-- MT10 -->
+    <string name="engine_mt10">Engine МТ10 type 32 hp</string>
+    <string name="button_engine_mt10">МТ10 type</string>
+
+    <!-- MT10-36 -->
+    <string name="engine_mt10_36">Engine МТ10-36 type 36 hp</string>
+    <string name="button_engine_mt10_36">МТ10-36 type</string>
+    <string name="type_mt10_36">МТ10-36 type</string>
+
+    <!-- MV650 -->
+    <string name="type_mv650">МВ650 type</string>
+
+    <!-- MT11 -->
+    <string name="engine_mt11">Engine МТ10-32 type 32 hp</string>
+    <string name="button_engine_mt11">МТ10-32 type</string>
+    <string name="type_mt11">MT-11 type</string>
+
+    <!-- MT16 -->
+
+
+
+    <!-- Motorcycle units -->
+    <!-- Gearbox -->
+
+    <string name="button_gearbox_7204">7204 type</string>
+    <string name="button_gearbox_6204">6204 type</string>
+    <string name="button2_gearbox_6204">Gearbox \n6204 type</string>
+    <string name="button_gearbox_810104001">8.101-04001 type</string>
+    <string name="button_gearbox_mt80400">МТ804 type</string>
+    <string name="button_gearbox_kmz8155">КМЗ-8.155 type</string>
+
+    <string name="clutch_shaft">Clutch shaft</string>
+    <string name="main_shaft">Main shaft</string>
+    <string name="kickstarter_shaft">Kickstarter shaft</string>
+    <string name="left_cover">Left cover</string>
+    <string name="right_cover">Right cover</string>
+    <string name="right_left_covers">Right and left covers</string>
+    <string name="gearshift_lever">Gearshift lever</string>
+    <string name="clutch_release_mechanism">Clutch release mechanism</string>
+    <string name="seal_felt_4mm">Felt sealing ring</string>
+    <string name="seal_gearshift_foot_lever">Foot gearshift lever seal</string>
+    <string name="seal_gearshift_lever">Gearshift lever seal</string>
+
+
+
+
+
+
+
+
+    <!-- Engine -->
+
+    <string name="piston_pin">Piston gudgeon pin</string>
+    <string name="timing_cover">Timing pinions cover</string>
+    <string name="crankshaft">Crankshaft</string>
+    <string name="crankshaft_rear">Crankshaft, rear journal</string>
+    <string name="crankshaft_front">Crankshaft, front journal</string>
+    <string name="camshaft">Camshaft</string>
+    <string name="camshaft_front_journal">Camshaft, front journal</string>
+    <string name="camshaft_rear_journal">Camshaft, rear journal</string>
+    <string name="connecting_rod_big_end">Connecting rod, big end</string>
+    <string name="connecting_rod_small_end">Connecting rod, small end</string>
+    <string name="no_oil_filter">Not provided</string>
+    <string name="conrod_big_end_half_bearing">Conrod big end halfbearing</string>
+    <string name="flywheel_fastening_bolt">Flywheel fastering bolt</string>
+    <string name="valve_guide">Valve guide</string>
+    
+    <!-- Pistons & piston rings -->
+    
+    <string name="basic_diameter">Basic diameter, mm</string>
+    <string name="basic_width_compression_top">
+        Top compression piston ring basic width, mm
+    </string>
+
+    <string name="basic_width_compression_second">
+        Second compression piston ring basic width, mm
+    </string>
+    <string name="basic_width_compression">Compression piston rings basic width, mm</string>
+    <string name="basic_width_oil_control">Oil control piston rings basic width, mm</string>
+
+    <string name="piston">Piston</string>
+    <string name="quantity_per_engine">Quantity per engine, pcs.</string>
+    <string name="piston_diameter">Piston diameter, mm</string>
+    <string name="piston_assembly">Piston assembly with piston rings and piston gudgeon pin</string>
+    <string name="piston_kit_oversize_1">
+        Piston assembly kit oversize 1 (+0,2mm)
+    </string>
+    <string name="piston_kit_oversize_2">
+        Piston assembly kit oversize 2 (+0,5mm)
+    </string>
+    <string name="piston_kit_oversize_3">
+        Piston assembly kit oversize 3 (+1,0mm)
+    </string>
+    <string name="piston_kit_oversize_4">
+        Piston assembly kit oversize 4
+    </string>
+
+    <string name="piston_assembly_oversize_1">
+        Piston assembly kit oversize 1, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_2">
+        Piston assembly kit oversize 2, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_3">
+        Piston assembly kit oversize 3, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_4">
+        Piston assembly kit oversize 4, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_5">
+        Piston assembly kit oversize 5, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_6">
+        Piston assembly kit oversize 6, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_7">
+        Piston assembly kit oversize 7, part number (size)
+    </string>
+    <string name="piston_assembly_oversize_8">
+        Piston assembly kit oversize 8, part number (size)
+    </string>
+
+    <string name="piston_oversize_1">Piston oversize 1, part number (size)</string>
+    <string name="piston_oversize_2">Piston oversize 2, part number (size)</string>
+    <string name="piston_oversize_3">Piston oversize 3, part number (size)</string>
+    <string name="piston_oversize_4">Piston oversize 4, part number (size)</string>
+    <string name="piston_oversize_5">Piston oversize 5, part number (size)</string>
+    <string name="piston_oversize_6">Piston oversize 6, part number (size)</string>
+    <string name="piston_oversize_7">Piston oversize 7, part number (size)</string>
+    <string name="piston_oversize_8">Piston oversize 8, part number (size)</string>
+
+
+    <string name="piston_oversize_1_sov">Piston oversize 1 (+0,2mm)</string>
+    <string name="piston_oversize_2_sov">Piston oversize 2 (+0,5mm)</string>
+    <string name="piston_oversize_3_sov">Piston oversize 3 (+1,0mm)</string>
+    <string name="piston_ring_compression_oversize_1">
+        Compression piston ring oversize 1 (+ 0,2mm)
+    </string>
+    <string name="piston_ring_compression_oversize_2">
+        Compression piston ring oversize 2 (+ 0,5mm)
+    </string>
+    <string name="piston_ring_compression_oversize_3">
+        Compression piston ring oversize 3 (+ 1,0mm)
+    </string>
+    <string name="piston_ring_oil_control_oversize_1">
+        Oil control piston ring oversize 1 (+ 0,2mm)
+    </string>
+    <string name="piston_ring_oil_control_oversize_2">
+        Oil control piston ring oversize 2 (+ 0,5mm)
+    </string>
+    <string name="piston_ring_oil_control_oversize_3">
+        Oil control piston ring oversize 3 (+ 1,0mm)
+    </string>
+
+    <string name="piston_rings">Piston rings</string>
+    <string name="piston_rings_kit">Piston rings kit</string>
+    <string name="piston_rings_kit_part_n_quantity">
+        Piston rings kit, part number (quantity, pcs.)
+    </string>
+
+    <string name="compression_ring">Compression piston ring</string>
+    <string name="compression_ring_chrome_plated">
+        Top compression piston ring, chrome plated
+    </string>
+    <string name="compression_ring_quantity_2">
+        Compression piston ring, (quantity, pcs)
+    </string>
+    <string name="compression_ring_chrome_plated_quantity_2">
+        Top compression piston ring, chrome plated (quantity, pcs.)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_1">
+        Top compression piston ring, chrome plated, oversize 1 (+0,2mm)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_2">
+        Top compression piston ring, chrome plated, oversize 2 (+0,5mm)
+    </string>
+    <string name="compression_ring_crome_plated_oversize_3">
+        Top compression piston ring, chrome plated, oversize 3 (+1,0mm)
+    </string>
+
+
+
+
+    <string name="oversizes">Oversizes</string>
+
+    <string name="compression_ring_quantity">Compression piston rings quantity, pcs.</string>
+    <string name="oil_control_ring">Oil control piston ring</string>
+    <string name="oil_control_ring_quantity">Oil control piston rings quantity, pcs.</string>
+    <string name="oil_control_ring_quantity_2">
+        Oil control ring (quantity, pcs.)
+    </string>
+    <string name="oil_rings_type">Oil control rings type</string>
+    <string name="oil_ring_type">Oil control ring type</string>
+    <string name="one_piece_plain_oil_control">
+        One piece, plain type
+    </string>
+    <string name="two_piece_plain_oil_control">
+        Two piece , plain type, with spring
+    </string>
+    <string name="segmented">Segmented</string>
+
+    <string name="piston_rings_kit_oversize_1">
+        Piston rings kit oversize 1, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_2">
+        Piston rings kit oversize 2, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_3">
+        Piston rings kit oversize 3, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_4">
+        Piston rings kit oversize 4, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_5">
+        Piston rings kit oversize 5, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_6">
+        Piston rings kit oversize 6, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_7">
+        Piston rings kit oversize 7, part number (size)
+    </string>
+    <string name="piston_rings_kit_oversize_8">
+        Piston rings kit oversize 8, part number (size)
+    </string>
+
+
+
+    <string name="piston_rings_hastings_for_models">
+        Ford Courier 1600cc, 1800cc 72-78
+        \nMazda 1600cc, 1800cc 71-94
+        \nMercury Tracer, Capri 98, 1.6L 88-94
+        \nNissan 1598cc 83
+        \nKia 1597cc 1.6L 94-97
+    </string>
+
+
+    
+    <string name="manufacturing_method">Manufacturing method</string>
+    <string name="investment_casting">Investment casting</string>
+    <string name="die_casting">Die casting</string>
+    <string name="isothermal_stamping">Isothermal stamping</string>
+
+
+
+
+
+
+
+
+    <string name="piston_pin_circlip">Piston gudgeon pin circlip</string>
+    <string name="any_piston_pin_circlip_21mm">
+        Any piston gudgeon pin circlip &#216;21mm
+    </string>
+
+
+    <string name="valve">Valve</string>
+    <string name="intake_valve">Intake valve</string>
+    <string name="exhaust_valve">Exhaust valve</string>
+
+
+
+
+
+
+    
+    <!-- Clutch -->
+    <string name="thrust_plate_screw">Thrust plate screw</string>
+    <string name="thrust_plate">thrust plate</string>
+    <string name="clutch_pins_needed">
+        * In case of using these replasers in both of cases:
+        \n-wlywheel pins (part number 7201225) should be replased to
+        custom with thread pitch 1,25mm;
+        \n-screw holes of drive thrust clutch disc (part number 7203122) are need in countersink.
+    </string>
+    <string name="clutch_pins_needed_2">
+        * In case of using these replasers:
+        \n-wlywheel pins (part number 7201225) should be replased to
+        custom with thread pitch 1,25mm;
+        \n-screw holes of drive thrust clutch disc (part number 7203122) are need in countersink.
+    </string>
+    <string name="screw_class_109_or_129">10,9 or 12,9</string>
+
+
+
+    <!-- Frame -->
+    <string name="steering_head">Steering head</string>
+    <string name="wheel_hub">Wheel hub (4)</string>
+
+    <!-- Generators -->
+    <string name="g11a">Г-11А</string>
+    <string name="g414">Г-414</string>
+    <string name="g424">Г-424</string>
+
+    <string name="seal_generator_shaft_g414">Generator Г-414 shaft seal</string>
+    <string name="seal_generator_shaft_g424">Generator Г-424 shaft seal</string>
+    <string name="rotor_shaft">Rotor shaft</string>
+    <string name="direct_current_type">Direct current type</string>
+    <string name="alternator">Alternator</string>
+    <string name="nominal_tension">Nominal tension, V</string>
+    <string name="nominal_power">Nominal power, W</string>
+    <string name="nominal_amperage">Nominal amperage, А</string>
+    <string name="pole_shoe_screw">Pole shoe screw</string>
+    <string name="screw">Screw</string>
+    <string name="screw_class">Screw class</string>
+    <string name="screw_class_48">4.8 or higher</string>
+    <string name="soviet_standart">ГОСТ (Soviet state standart)</string>
+    <string name="more_modern_soviet_standart">Newer ГОСТ (Soviet state standart)</string>
+
+
+    <!-- Final drive -->
+    <string name="type_2wd_ussr_kmz">2wd USSR КМЗ type</string>
+    <string name="type_ussr_kmz">USSR КМЗ type</string>
+
+    <string name="final_drive_hub">Final drive hub</string>
+    <string name="final_drive_drive_pinion_shaft">Drive pinion</string>
+    <string name="final_drive_casing">Final drive casing</string>
+    <string name="universal_joint_driven_fork">Universal joint, driven fork</string>
+    <string name="universal_joint_of_sidecar_drive_shaft">
+        Sidecar drive universal joint
+    </string>
+    <string name="differential_cover">Differential cover</string>
+    <string name="left_hand_differential_hub">Left hand differential hub</string>
+    <string name="differencial_cup">Differential cup</string>
+
+    <string name="about_next_final_drive_casing_seals_1">
+        All the seals below have construction different to construction of original seal, i.e. are
+        not collar type. These seals have classical for present time construction type.
+        \nBore in final drive casing in what it is possible to install such a seal can be different
+        by diameter: from 58mm up to 60mm. According with that you should be guided when choose
+        alternative seal for replacement, choosing between seals with outer diameter 58, 59 or 60mm.
+    </string>
+
+    <string name="about_next_final_drive_casing_seals_2">
+        Below are seals with hatching oriented for opposite direction of rotation.
+        \nThese seals can be installed because speed of rotation of wheel in all ride regimes is
+        much more lower then 2500rpm. But it is strongly recommended to install such a seals only in case of
+        missing of possibility to install seal with hatching oriented for right direction of rotation.
+    </string>
+    <string name="right_direction_seals">Right direction of rotation seals</string>
+
+    <!-- Sidecar reguction drive-->
+    <string name="sidecar_reduction_drive_left_hand_cover">Sidecar reduction drive left hand cover</string>
+    <string name="sidecar_reduction_drive_right_hand_cover">Sidecar reduction drive right hand cover</string>
+    <string name="sidecar_reduction_drive_casing">Sidecar reduction drive casing</string>
+
+    <string name="seal_choose_according_with_outside_diameter">
+        * Seal should be chosen by outside diameter according with diameter of bore in final drive casing
+    </string>
+
+    <!-- Universal joint -->
+    <string name="universal_joint_cross">Universal joint cross</string>
+    <string name="universal_joint_cross_assembly">Universal joint assembly</string>
+    <string name="universal_joint_cross_bearing">Universal joint cross bearing</string>
+
+
+
+
+    <!-- Motorcycle units specifications -->
+    <string name="location">Location</string>
+    <string name="quantity">Quantity, pcs.</string>
+    <string name="original_part">Original part</string>
+    <string name="part_number">Part number</string>
+    <string name="type">Type</string>
+    <string name="dimencions">Dimencions, mm</string>
+
+    <string name="modern_replacement">Replacer</string>
+    <string name="modern_replacement_1">Replacer 1</string>
+    <string name="modern_replacement_2">Replacer 2</string>
+    <string name="modern_replacement_3">Replacer 3</string>
+    <string name="modern_replacement_4">Replacer 4</string>
+    <string name="modern_replacement_5">Replacer 5</string>
+    <string name="modern_replacement_6">Replacer 6</string>
+    <string name="modern_replacement_7">Replacer 7</string>
+    <string name="modern_replacement_8">Replacer 8</string>
+    <string name="modern_replacement_9">Replacer 9</string>
+    <string name="modern_replacement_10">Replacer 10</string>
+    <string name="modern_replacement_11">Replacer 11</string>
+    <string name="modern_replacement_12">Replacer 12</string>
+    <string name="modern_replacement_13">Replacer 13</string>
+    <string name="modern_replacement_14">Replacer 14</string>
+    <string name="modern_replacement_15">Replacer 15</string>
+    <string name="modern_replacement_16">Replacer 16</string>
+    <string name="modern_replacement_17">Replacer 17</string>
+    <string name="modern_replacement_18">Replacer 18</string>
+    <string name="modern_replacement_19">Replacer 19</string>
+    <string name="modern_replacement_20">Replacer 20</string>
+
+
+
+
+
+    <string name="modern_replacement_type">Type of replacer</string>
+    <string name="modern_replacement1_type">Type of replacer 1</string>
+    <string name="modern_replacement2_type">Type of replacer 2</string>
+    <string name="dimencions_of_original">Dimencions of original part, mm</string>
+    <string name="thickness_of_original">Thickness of original part, mm</string>
+    <string name="seal_4mm">Felt seal 4mm thickness</string>
+    <string name="seal_4halfmm_7204116">Felt seal 4,5mm thickness №7204116</string>
+    <string name="seal_4halfmm_7204142">Felt seal 4,5mm thickness №7204142</string>
+    <string name="seal_4halfmm">Felt seal 4,5mm thickness</string>
+
+    <string name="dimencions_of_replacement">Dimencions of replacement, mm</string>
+    <string name="dimencions_of_replacement_1">Dimencions of replacement 1, mm</string>
+    <string name="dimencions_of_replacement_2">Dimencions of replacement 2, mm</string>
+    <string name="dimencions_of_replacement_3">Dimencions of replacement 3, mm</string>
+    <string name="dimencions_of_replacement_4">Dimencions of replacement 4, mm</string>
+    <string name="dimencions_of_replacement_5">Dimencions of replacement 5, mm</string>
+    <string name="dimencions_of_replacement_6">Dimencions of replacement 6, mm</string>
+    <string name="dimencions_of_replacement_7">Dimencions of replacement 7, mm</string>
+    <string name="dimencions_of_replacement_8">Dimencions of replacement 8, mm</string>
+    <string name="dimencions_of_replacement_9">Dimencions of replacement 9, mm</string>
+    <string name="dimencions_of_replacement_10">Dimencions of replacement 10, mm</string>
+    <string name="dimencions_of_replacement_11">Dimencions of replacement 11, mm</string>
+    <string name="dimencions_of_replacement_12">Dimencions of replacement 12, mm</string>
+    <string name="dimencions_of_replacement_13">Dimencions of replacement 13, mm</string>
+    <string name="dimencions_of_replacement_14">Dimencions of replacement 14, mm</string>
+    <string name="dimencions_of_replacement_15">Dimencions of replacement 15, mm</string>
+    <string name="dimencions_of_replacement_16">Dimencions of replacement 16, mm</string>
+    <string name="dimencions_of_replacement_17">Dimencions of replacement 17, mm</string>
+    <string name="dimencions_of_replacement_18">Dimencions of replacement 18, mm</string>
+    <string name="dimencions_of_replacement_19">Dimencions of replacement 19, mm</string>
+    <string name="dimencions_of_replacement_20">Dimencions of replacement 20, mm</string>
+
+
+
+
+    <string name="rollers_quantity">Rollers quantity, pcs.</string>
+    <string name="rollers_dimencions">Rollers dimencions, mm</string>
+    <string name="rollers_material">Rollers material</string>
+    <string name="cage_material">Cage material</string>
+    <string name="direction_of_rotation_of_replacement">Replaser-s direction of rotation</string>
+    <string name="direction_of_rotation">Direction of rotation</string>
+    <string name="rotation_left">Left</string>
+    <string name="rotation_right">Right</string>
+    <string name="rotation_left_direction">Left direction of rotation</string>
+    <string name="rotation_right_direction">Right direction of rotation</string>
+    <string name="rotation_both_directions">Rotation to both directions</string>
+    <string name="features_of_construction">Feautures of construction</string>
+    <string name="feauture_of_replacement">Feautures of replacer</string>
+
+    <string name="feauture_of_replacement_1">Feautures of replacer 1</string>
+    <string name="feauture_of_replacement_2">Feautures of replacer 2</string>
+    <string name="feauture_of_replacement_3">Feautures of replacer 3</string>
+    <string name="feauture_of_replacement_4">Feautures of replacer 4</string>
+    <string name="feauture_of_replacement_5">Feautures of replacer 5</string>
+    <string name="feauture_of_replacement_6">Feautures of replacer 6</string>
+    <string name="feauture_of_replacement_7">Feautures of replacer 7</string>
+    <string name="feauture_of_replacement_8">Feautures of replacer 8</string>
+    <string name="feauture_of_replacement_9">Feautures of replacer 9</string>
+
+    <string name="low_quality">Low quality is expected</string>
+    <string name="quality_unknown">Quality unknown</string>
+    <string name="low_resourse">Low resource is expected</string>
+    <string name="strengthened">У - means strengthened</string>
+    <string name="circlip">Circlip</string>
+    <string name="lock_ring">Lock ring</string>
+    <string name="retaining_ring_for_bores">Retaining ring for bores</string>
+    <string name="snap_ring">Snap ring</string>
+    <string name="spring_steel">Spring steel, stainless steel A2</string>
+    <string name="assembly">assembly</string>
+    <string name="gost_name">ГОСТ (Soviet state standart) name</string>
+    <string name="lock_ring_gost">
+        Eccentric inner flat thrust spring retaining rings
+    </string>
+    <string name="retaining_spring_flat_concentric_ring">
+        Concentric outer flat spring retaining rings
+    </string>
+    <string name="external_retaining_rings_with_lugs">Outer retaining ring with lugs</string>
+    <string name="flat">Flat</string>
+    <string name="lock_ring_gost_round">Round spring lock rings</string>
+    <string name="cardan_shaft_lock_ring">Cardan shaft lock ring</string>
+
+    <string name="cardan_shaft_circlip_part_numbers">
+        75005305 - КМЗ
+        \n
+        \n6305310 - ИМЗ up to М67-36
+        \n
+        \nИМЗ-8.101-05310 - ИМЗ since М67-36
+    </string>
+
+
+    <string name="feature_of_cardan_shaft_ring_1">
+        It is needed to make groove(s) on cardan shaft to 16.8mm diameter
+    </string>
+    <string name="feature_of_cardan_shaft_ring_2">
+        It is needed to make groove(s) on cardan shaft to 15.2mm diameter
+    </string>
+    <string name="feature_of_cardan_shaft_ring_3">
+        It is needed to turn groove(s) in cardan shaft fork (forks) to 23.4mm diameter
+    </string>
+    <string name="feauture1">Feauture 1</string>
+    <string name="feauture2">Feauture 2</string>
+
+
+
+    <string name="collar_type">Collar type</string>
+    <string name="not_collar_type">Not-collar type</string>
+
+    <string name="original_part_plus_material">Original part number (material)</string>
+    <string name="part_for">Part for (company, model, (eges of producing))</string>
+    <string name="part_for_company_model">Part for (company, model)</string>
+
+    <string name="manufacturer_or_tm">Manufacturer or trade mark</string>
+
+    <string name="any_additional_part_info">Any additional info about spare part</string>
+
+
+    <!-- Standart parts specifications -->
+    <string name="bearings">Bearings</string>
+    <string name="seals">Seals</string>
+    <string name="oil_filter">Oil filter</string>
+
+
+    <!-- Filters -->
+    <string name="adapter">Adapter</string>
+    <string name="feauture">Feauture</string>
+    <string name="adapter_needed">Adapter needed</string>
+    <string name="fits">Fits</string>
+    <string name="adapter_for_hf166_type">Adapter for HF161 type</string>
+    <string name="adapter_for_mann_w75_type">Adapter for MANN W75/3 type</string>
+    <string name="oil_filter_m66">M66 oil filter</string>
+    <string name="oil_filter_m67_36">ИМЗ-8.101-01090 oil filter</string>
+
+    <string name="hf161_models_list">
+        BMW R45(N), R50/5, R60(all models), R65(LS), R75(all models), R80(GS, R, RT, ST),
+        R90(all models), R100(GS, R, RT, CS(without air cooler), S(without air cooler)
+        (from 1969-1996)
+    </string>
+
+    <string name="w75_adapter_taken_from">
+        Drawing from BogomazDen article from oppozit.ru
+    </string>
+    <string name="hf161_adapter_later">
+        Adapter detail drawings with dimencions will be added to app later
+    </string>
+
+    <!-- Oils -->
+    <string name="recommended_oils">Recommended oils</string>
+    <string name="viscosity">Viscosity SAE</string>
+    <string name="type_by_base">Type by base</string>
+    <string name="mineral">Mineral</string>
+    <string name="semisynthetic">Semisynthetic</string>
+    <string name="synthetic">Synthetic</string>
+    <string name="type_by_use">Type by use</string>
+    <string name="motor_oil">Motor oil</string>
+    <string name="gear_oil">Gear oil</string>
+    <string name="seasonality">Seasonality</string>
+    <string name="summer_use">Summer use</string>
+    <string name="winter_use">Winter use</string>
+    <string name="multigrade">Multigrade</string>
+
+
+    <!-- Bearings -->
+    <string name="bearing">Bearing</string>
+    <string name="roller">Roller</string>
+    <string name="cage">Cage</string>
+    <string name="number">Number</string>
+
+    <string name="bearing_load_rating">Load rating</string>
+
+    <string name="bearing_conrod_big_end_m72">822907 connection rod big end bearing</string>
+    <string name="bearing_conrod_big_end_m66">864708 connection rod big end bearing</string>
+
+    <string name="cylindrical_roller">Cylindrical roller</string>
+    <string name="quantity_in_1_bearing">Quantity in bearing, pcs</string>
+
+    <string name="bearing_type_ball_radial">
+        - ball \n- single raw \n- radial \n- open
+    </string>
+    <string name="bearing_type_ball_radial_covered">
+        - ball \n- single raw \n- radial \n- closed
+    </string>
+    <string name="bearing_type_ball_thrust_radial">
+        - ball \n- single raw \n- thrust-radial \n- open
+    </string>
+    <string name="bearing_type_roller_thrust_radial">
+        - roller \n- single raw \n- thrust-radial \n- tapered \n- open
+    </string>
+    <string name="bearing_type_roller_radial_thrust">
+        -roller \n- single raw \n- radial-thrust \n- tapered \n- open
+    </string>
+    <string name="bearing_type_roller_radial_singlerow">
+        - roller \n- radial \n- single raw \n- cylindrical rollers
+    </string>
+    <string name="bearing_type_ball_2row_radial_thrust">
+        - ball \n- 2 raw \n- radial-thrust \n- open
+    </string>
+    <string name="bearing_type_roller_without_cage">
+        - roller \n- without cage
+    </string>
+    <string name="bearing_type_needle">
+        - needle
+    </string>
+    <string name="bearing_type_needle_radial_without_cage_one_race">
+        - needle \n- radial \n- without cage \n- one race (with profiled bottom)
+    </string>
+    <string name="bearing_type_ball_thrust_without_races">
+        -ball \n- thrust \n- without races
+    </string>
+    <string name="bearing_type_roller_thrust">
+        -roller \n- thrust
+    </string>
+    <string name="bearing_type_roller_radial_with_cage_without_races">
+        - roller \n- radial \n- with cage \n- without races
+    </string>
+    <string name="bearing_type_roller_radial_with_cage">
+        - roller \n- radial \n- with cage
+    </string>
+    <string name="bearing_type_plain">Bearing plain type</string>
+    <string name="bearing_type_half_bearing">Half-bearing</string>
+    <string name="reinforsed">Reinforced</string>
+
+
+
+    <!-- Needle -->
+    <string name="needle_roller_3x16mm">Needle 3х15,8mm</string>
+    <string name="needle_lever">Needle 2,5х10mm</string>
+    <string name="k750_front_fork_levers">Front fork levers</string>
+
+
+    <!-- Roller DV 6,5x6,5mm VR -->
+    <string name="roller_6half_x_6half_mm">Roller ДV 6,5х6,5 ВР</string>
+    <string name="button_roller_6half_x_6half_mm">Roller \nДV 6,5х6,5 ВР</string>
+
+    <!-- 7204 bearing -->
+    <string name="bearing_7204">Bearing 7204</string>
+
+    <!-- 6v generators bearings -->
+    <string name="bearing_608">Bearing 18</string>
+    <string name="bearing_200">Bearing 200</string>
+    <string name="bearing_201">Bearing 201</string>
+
+    <!-- 204 bearing -->
+    <string name="bearing_204">Bearing 204</string>
+
+    <!-- 303 bearing -->
+    <string name="bearing_303">Bearing 303</string>
+
+    <!-- 180503 bearing -->
+    <string name="bearing_180503">Bearing 180503</string>
+    <string name="make_compensating_bushings">
+        Manufacturing of 4mm width compensating bushings needed
+    </string>
+
+    <!-- 205 bearing -->
+    <string name="bearing_205">Bearing 205</string>
+
+    <!-- 206 bearing -->
+    <string name="bearing_206">Bearing 206</string>
+
+    <!-- 207 bearing -->
+    <string name="bearing_207">Bearing 207</string>
+    <string name="cage_brass">Solid brass cage</string>
+    <string name="cage_polyamide">Solid polyamide snap cage, ball guided</string>
+
+    <!-- 209 ball bearing -->
+    <string name="bearing_209_ball">Bearing 209</string>
+
+    <!-- 209 roller bearing -->
+    <string name="bearing_209_roller">Bearing 42209</string>
+
+    <!-- Bearing 304 -->
+    <string name="bearing_304">Bearing 304</string>
+
+    <!-- 778707 bearing -->
+    <string name="bearing_778707">Bearing 778707</string>
+
+    <!-- 3086304 bearing -->
+    <string name="bearing_3086304">Bearing 3086304Л</string>
+
+    <!-- 874901 bearing -->
+    <string name="bearing_874901">Bearing 874901</string>
+
+    <!-- 7000105 bearing -->
+    <string name="bearing_7000105">Bearing 7000105</string>
+
+    <!-- 110 bearing -->
+    <string name="bearing_110">Bearing 110</string>
+
+    <!-- 948066 bearing -->
+    <string name="bearing_clutch_bearing">Bearing 948066</string>
+    <string name="bearing_clutch_replacement_feautures">Installing with washers</string>
+    <string name="bearing_washer_1">Bearing washer 1, \ndimencions, mm</string>
+    <string name="bearing_washer_2">Bearing washer 2, \ndimencions, mm</string>
+    <string name="bearing_clutch_replacement_kit_dimencions">
+        Replaser-s kit dimencions, mm
+    </string>
+    
+    <!-- 864708 ДМ -->
+    <string name="bearing_connecting_rod_big_end">Connecting rod big end bearing</string>
+
+
+    <!-- Conrod half bearing -->
+    <string name="moskvitch408_halfbearing">Москвич-408 connection rod big end halfbearing</string>
+    <string name="conrod_journal_diameter_for_halfbearing">
+        Specified size - is diameter of connection rod big end journal
+    </string>
+
+    <!-- Conrod small end bushing -->
+    <string name="conrod_small_end_bushing">Connection rod small end bushing</string>
+
+
+    <!-- Final drive hub half bearing -->
+    <string name="final_drive_hub_half_bearing">Final drive hub half-bearings</string>
+    <string name="final_drive_hub_half_bearing_button">Half-bearings \n7205238 \n7205239</string>
+    <string name="kit_45pcs">Kit 45 pcs.</string>
+
+
+    <!-- Camshaft bushing -->
+    <string name="camshaft_rear_bushing">Camshaft rear bushing</string>
+    <string name="camshaft_front_bushing">Camshaft front bushing</string>
+    <string name="camshaft_front_bearing_assy">Camshaft front bearing</string>
+
+
+
+    <!-- Bearing 12204 -->
+    <string name="bearing_clutch_shaft">Gearbox clutch shaft bearing</string>
+
+
+
+
+
+
+    <!-- Seals -->
+    <string name="seal">Seal</string>
+    <string name="felt_sealing_ring">Felt sealing ring</string>
+    <string name="direction_of_seal_rotation">Direction of rotation</string>
+
+
+    <!-- 6206006 seal -->
+    <string name="seal_wheel_hub">Wheel hub seal</string>
+
+    <!-- Seal crankshaft 50x70 -->
+    <string name="seal_crankshaft">Crankshaft seal</string>
+
+    <!-- Seal camshaft 16x30 -->
+    <string name="seal_camshaft">Camshaft seal</string>
+
+    <!-- Seal gearbox 6204 clutch shaft -->
+    <string name="seal_gearbox6204_clutch_shaft">Gearbox clutch shaft seal</string>
+
+    <!-- Seal gearbox 6204 main shaft -->
+    <string name="seal_gearbox6204_main_shaft">Gearbox main shaft seal</string>
+    <string name="drive_fork_damping_clutch_turning">
+        Cardan shaft drive fork damping clutch turning needed
+    </string>
+
+    <!-- Seal gearbox 6204 kickstarter shaft -->
+    <string name="seal_gearbox6204_kickstarter_shaft">Kickstarter shaft seal</string>
+    <string name="kikstarter_shaft_rear_bushing_mashining">
+        Kickstarter shaft rear bushing mashining needed (turning of original bushing or manufacturing of new one)
+    </string>
+
+    <!-- Seal gearbox 6204 side covers -->
+    <string name="seal_gearbox6204_side_covers">Left hand and right hand gearbox casing cover seal</string>
+
+    <!-- Seal final drive casing seal -->
+    <string name="seal_final_drive_casing">Final drive casing seal</string>
+
+    <!-- Seal clutch release rod -->
+    <string name="seal_clutch_release_rod">Clutch release rod seal</string>
+    <string name="clutch_release_rod">Clutch release rod</string>
+    <string name="felt_7203213">7203213 \n(felt)</string>
+    <string name="rubber_75003213_a">75003213-А \n(rubber)</string>
+    <string name="rubber_6326155">6326155 \n(rubber)</string>
+    <string name="rubber_7203213_20">7203213-20 \n(rubber)</string>
+
+    <!-- Seal universal joint fork seal -->
+    <string name="seal_universal_joint_fork">Universal joint fork seal</string>
+    <string name="final_drive_bearing_nut_turning">
+        Final drive casing bearing nut turning needed
+    </string>
+    <string name="final_drive_bearing_nut_and_universal_joint_fork_turning">
+        Final drive casing bearing nut and universal joint fork turning needed
+    </string>
+
+
+
+
+
+
+    <!-- Spark plugs -->
+    <string name="spark_plugs">Spark plugs</string>
+    <string name="spark_plugs_and_oil_filter">Spark plugs and oil filter</string>
+    <string name="spark_plug">Spark plug</string>
+    <string name="spark_plug_old">Spark plug</string>
+    <string name="designation">Designation</string>
+    <string name="over_10">over 10</string>
+    <string name="thread_dimencions">Thread dimancions, mm</string>
+    <string name="thread_length">Thread length, mm</string>
+    <string name="spark_plug_gap">Spark plug gap, mm</string>
+    <string name="heat_range_code_number">Heat range code number</string>
+    <string name="replacers">Replacers</string>
+    <string name="general_spark_plugs_table">spark plugs general table</string>
+    <string name="conditions_of_use">Conditions of use</string>
+    <string name="winter_or_cold_conditions">Winter or cold conditions</string>
+    <string name="medium_temperatures_conditions">Medium temperatures conditions</string>
+    <string name="hot_or_hard_conditions">In hot or heavy duty conditions</string>
+
+
+    <!--Materials -->
+    <string name="material">Material</string>
+    <string name="material_2">Material 2</string>
+
+    <string name="aluminium_alloy_kc245">Aluminium alloy КС-245</string>
+    <string name="camshaft_front_bushing_material">Aluminium alloy АЛ-5</string>
+    <string name="at_piston_material">Aluminium alloy АК12Д or АК18Д</string>
+    <string name="bronze">Bronze</string>
+    <string name="camshaft_rear_bushing_material">БрАЖМц10-3-1.5</string>
+    <string name="conrod_small_end_bushing_material">БрОФ10</string>
+    <string name="bearing_conrod_big_end_rollers_material">ШХ-15</string>
+    <string name="bearing_conrod_big_end_cage_material">Duralumin</string>
+    <string name="b2a">Б-2А, ect.</string>
+
+
+
+
+
+
+
+
+
+</resources>
